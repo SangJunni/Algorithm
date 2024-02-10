@@ -14,6 +14,8 @@
 | [Since 1973](https://www.acmicpc.net/problem/28135) | B3  | 수학, 구현, 사칙연산 | [대회 문제](https://www.acmicpc.net/category/848) |
 |   [A+B -4](https://www.acmicpc.net/problem/10951)   | B5  | 수학, 구현, 사칙연산 |                                                       |
 |     [평균](https://www.acmicpc.net/problem/1546)      | B1  |   수학, 사칙연산   |                                                       |
+|    [AxB](https://www.acmicpc.net/problem/10998)     | B5  | 수학, 구현, 사칙연산 |                                                       |
+|  [두 수 비교하기](https://www.acmicpc.net/problem/1330)   | B5  |      구현      |                                                       |
 
 </details>
 
@@ -32,15 +34,19 @@
 |      [거스름돈](https://www.acmicpc.net/problem/14916)      | S5  |    수학,그리디, DP    |    [대회 문제](https://www.acmicpc.net/category/788)     |
 | [Array Rotation](https://www.acmicpc.net/problem/28456) | S5  |    구현, 시뮬레이션     |    [대회 문제](https://www.acmicpc.net/category/detail/3675)     |
 |      [ATM](https://www.acmicpc.net/problem/11399)       | S4  |     그리디, 정렬      |                                                      |
+|      [BABBA](https://www.acmicpc.net/problem/9625)      | S5  |        DP        |                                                      |
+|      [D-Day](https://www.acmicpc.net/problem/1308)      | S5  |        구현        |                                                      |
+|    [DFS와 BFS](https://www.acmicpc.net/problem/1260)     | S2  |       그래프        |                                                      |
 
 </details>
 
 <details>
 <summary> <b>골드 난이도</b> </summary>
 
-| 문제명(링크) | 난이도 | 유형 |                          비고                          |
-|:-------:|:---:|:--:|:----------------------------------------------------:|
-|    -    |  -  | -  | - |
+|                    문제명(링크)                    | 난이도 |      유형      |                          비고                          |
+|:---------------------------------------------:|:---:|:------------:|:----------------------------------------------------:|
+| [A와 B](https://www.acmicpc.net/problem/12904) | G5  | 구현, 그리디, 문자열 |                                                      |
+| [CCW](https://www.acmicpc.net/problem/11758)  | G5  |     기하학      |                                                      |
 
 </details>
 
@@ -57,9 +63,9 @@
 <details>
 <summary> <b>그 외</b> </summary>
 
-|                       문제명(링크)                       | 난이도 |         유형         |                          비고                           |
-|:---------------------------------------------------:|:---:|:------------------:|:-----------------------------------------------------:|
-|                      1이 될 때까지                       |  -  |        그리디         |                                                       |
+| 문제명(링크)  | 난이도 |         유형         |                          비고                           |
+|:--------:|:---:|:------------------:|:-----------------------------------------------------:|
+| 1이 될 때까지 |  -  |        그리디         |                                                       |
 </details>
 
 ## Algorithm 스터디 공부 내역
