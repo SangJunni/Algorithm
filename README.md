@@ -9,6 +9,7 @@
 |      [Hashing](https://www.acmicpc.net/problem/15829)      | B2  | 구현, 문자열, 해싱  |     [대회 문제](https://www.acmicpc.net/category/701)     |
 |      [ACM 호텔](https://www.acmicpc.net/problem/10250)       | B3  | 수학, 구현, 사칙연산 | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
 |    [Since 1973](https://www.acmicpc.net/problem/28135)     | B3  | 수학, 구현, 사칙연산 |     [대회 문제](https://www.acmicpc.net/category/848)     |
+|        [최댓값](https://www.acmicpc.net/problem/2562)         | B3  |      구현      |     [대회 문제](https://www.acmicpc.net/category/68)     |
 |      [DKSH 찾기](https://www.acmicpc.net/problem/29766)      | B4  |   구현, 문자열    | [대회 문제](https://www.acmicpc.net/category/detail/3869) |
 |     [Archivist](https://www.acmicpc.net/problem/28454)     | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/2348) |
 | [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738) | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
@@ -51,15 +52,16 @@
 <details>
 <summary> <b>골드 난이도</b> </summary>
 
-|                               문제명(링크)                                | 난이도 |       유형        | 비고 |
-|:--------------------------------------------------------------------:|:---:|:---------------:|:--:|
-|         [GCD(n, k)=1](https://www.acmicpc.net/problem/11689)         | G1  |       수학        |    |
-|            [K번째 수](https://www.acmicpc.net/problem/1300)             | G1  | 이분 탐색, 매개 변수 탐색 |    |
-|            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |       DP        |    |
-|            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |  구현, 그리디, 문자열   |    |
-|             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |       기하학       |    |
-| [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |       수학        |    |
-|             [LCS](https://www.acmicpc.net/problem/9251)              | G5  |     DP,문자열      |    |
+|                               문제명(링크)                                | 난이도 |       유형        |                      비고                       |
+|:--------------------------------------------------------------------:|:---:|:---------------:|:---------------------------------------------:|
+|         [GCD(n, k)=1](https://www.acmicpc.net/problem/11689)         | G1  |       수학        |                                               |
+|            [K번째 수](https://www.acmicpc.net/problem/1300)             | G1  | 이분 탐색, 매개 변수 탐색 |                                               |
+|            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |       DP        |                                               |
+|            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |  구현, 그리디, 문자열   |                                               |
+|             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |       기하학       |                                               |
+| [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |       수학        |                                               |
+|             [LCS](https://www.acmicpc.net/problem/9251)              | G5  |     DP,문자열      |                                               |
+|      [MooTube (Silver)](https://www.acmicpc.net/problem/15591)       | G5  |       그래프       | [대회 문제](https://www.acmicpc.net/category/415) |
 
 </details>
 
