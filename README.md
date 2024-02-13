@@ -57,6 +57,7 @@
 |         [GCD(n, k)=1](https://www.acmicpc.net/problem/11689)         | G1  |       수학        |                                               |
 |            [K번째 수](https://www.acmicpc.net/problem/1300)             | G1  | 이분 탐색, 매개 변수 탐색 |                                               |
 |            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |       DP        |                                               |
+|           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |   완전 탐색, 백트래킹   |                                               |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |  구현, 그리디, 문자열   |                                               |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |       기하학       |                                               |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |       수학        |                                               |
