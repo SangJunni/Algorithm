@@ -33,12 +33,13 @@
 |:-------------------------------------------------------:|:---:|:----------------:|:-----------------------------------------------------:|
 |    [1로 만들기2](https://www.acmicpc.net/problem/12852)     | S1  |    DP, Graph     |                                                       |
 |      [INK](https://www.acmicpc.net/problem/30036)       | S1  |    구현, 시뮬레이션     | [대회 문제](https://www.acmicpc.net/category/detail/3910) |
-|     [나무 자르기](https://www.acmicpc.net/problem/2805)     | S2  | 이분 탐색, 매개 변수 탐색  | [대회 문제](https://www.acmicpc.net/category/detail/72) |
+|     [나무 자르기](https://www.acmicpc.net/problem/2805)      | S2  | 이분 탐색, 매개 변수 탐색  |  [대회 문제](https://www.acmicpc.net/category/detail/72)  |
 |    [DFS와 BFS](https://www.acmicpc.net/problem/1260)     | S2  |       그래프        |                                                       |
 |     [1로 만들기](https://www.acmicpc.net/problem/1463)      | S3  |        DP        |                                                       |
 |    [2xn 타일링](https://www.acmicpc.net/problem/11726)     | S3  |        DP        |                                                       |
 |    [2xn 타일링2](https://www.acmicpc.net/problem/11727)    | S3  |        DP        |                                                       |
 |    [1,2,3 더하기](https://www.acmicpc.net/problem/9095)    | S3  |       그리디        | [대회 문제](https://www.acmicpc.net/category/detail/884)  |
+|    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | S3  |       백트래킹       |                                                       |
 |       [30](https://www.acmicpc.net/problem/10610)       | S4  | 수학, 그리디, 정렬, 문자열 | [대회 문제](https://www.acmicpc.net/category/detail/1322) |
 |      [ATM](https://www.acmicpc.net/problem/11399)       | S4  |     그리디, 정렬      |                                                       |
 |    [2차원 배열의 합](https://www.acmicpc.net/problem/2167)    | S5  |     구현, 누적합      |                                                       |
