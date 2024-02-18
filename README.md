@@ -2,27 +2,28 @@
 <details>
 <summary> <b>브론즈 난이도</b> </summary>
 
-|                          문제명(링크)                           | 난이도 |      유형      |                          비고                           |
-|:----------------------------------------------------------:|:---:|:------------:|:-----------------------------------------------------:|
-|    [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)    | B1  |      수학      |     [대회 문제](https://www.acmicpc.net/category/74)      |
-|         [평균](https://www.acmicpc.net/problem/1546)         | B1  |   수학, 사칙연산   |                                                       |
-|      [Hashing](https://www.acmicpc.net/problem/15829)      | B2  | 구현, 문자열, 해싱  |     [대회 문제](https://www.acmicpc.net/category/701)     |
-|      [ACM 호텔](https://www.acmicpc.net/problem/10250)       | B3  | 수학, 구현, 사칙연산 | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
-|    [Since 1973](https://www.acmicpc.net/problem/28135)     | B3  | 수학, 구현, 사칙연산 |     [대회 문제](https://www.acmicpc.net/category/848)     |
-|        [최댓값](https://www.acmicpc.net/problem/2562)         | B3  |      구현      |     [대회 문제](https://www.acmicpc.net/category/68)     |
-|      [DKSH 찾기](https://www.acmicpc.net/problem/29766)      | B4  |   구현, 문자열    | [대회 문제](https://www.acmicpc.net/category/detail/3869) |
-|     [Archivist](https://www.acmicpc.net/problem/28454)     | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/2348) |
-| [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738) | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
-|        [모비스](https://www.acmicpc.net/problem/28074)        | B4  |   구현, 문자열    |     [대회 문제](https://www.acmicpc.net/category/846)     |
-|      [A+B -7](https://www.acmicpc.net/problem/11021)       | B5  | 수학, 구현, 사칙연산 |                                                       |
-|        [AxB](https://www.acmicpc.net/problem/10998)        | B5  | 수학, 구현, 사칙연산 |                                                       |
-|      [두 수 비교하기](https://www.acmicpc.net/problem/1330)      | B5  |      구현      |                                                       |
-|     [2023 밈 투표](https://www.acmicpc.net/problem/29731)     | B5  |   구현, 문자열    | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
-|      [A+B -4](https://www.acmicpc.net/problem/10951)       | B5  | 수학, 구현, 사칙연산 |                                                       |
-|        [A+B](https://www.acmicpc.net/problem/1000)         | B5  | 수학, 구현, 사칙연산 |                                                       |
-|        [A-B](https://www.acmicpc.net/problem/1001)         | B5  | 수학, 구현, 사칙연산 |                                                       |
-|        [A/B](https://www.acmicpc.net/problem/1008)         | B5  | 수학, 구현, 사칙연산 |                                                       |
-|      [Lucky 7](https://www.acmicpc.net/problem/30224)      | B5  |    수학, 구현    | [대회 문제](https://www.acmicpc.net/category/detail/3975) |
+|                             문제명(링크)                             | 난이도 |      유형      |                          비고                           |
+|:---------------------------------------------------------------:|:---:|:------------:|:-----------------------------------------------------:|
+|      [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)       | B1  |      수학      |     [대회 문제](https://www.acmicpc.net/category/74)      |
+|           [평균](https://www.acmicpc.net/problem/1546)            | B1  |   수학, 사칙연산   |                                                       |
+|        [Hashing](https://www.acmicpc.net/problem/15829)         | B2  | 구현, 문자열, 해싱  |     [대회 문제](https://www.acmicpc.net/category/701)     |
+|         [ACM 호텔](https://www.acmicpc.net/problem/10250)         | B3  | 수학, 구현, 사칙연산 | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
+|       [Since 1973](https://www.acmicpc.net/problem/28135)       | B3  | 수학, 구현, 사칙연산 |     [대회 문제](https://www.acmicpc.net/category/848)     |
+|           [최댓값](https://www.acmicpc.net/problem/2562)           | B3  |      구현      |     [대회 문제](https://www.acmicpc.net/category/68)      |
+|        [DKSH 찾기](https://www.acmicpc.net/problem/29766)         | B4  |   구현, 문자열    | [대회 문제](https://www.acmicpc.net/category/detail/3869) |
+|       [Archivist](https://www.acmicpc.net/problem/28454)        | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/2348) |
+|   [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)    | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
+|          [모비스](https://www.acmicpc.net/problem/28074)           | B4  |   구현, 문자열    |     [대회 문제](https://www.acmicpc.net/category/846)     |
+| [Рождественская лотерея](https://www.acmicpc.net/problem/29683) | B4  |   수학, 사칙연산   |     [대회 문제](https://www.acmicpc.net/category/924)     |
+|         [A+B -7](https://www.acmicpc.net/problem/11021)         | B5  | 수학, 구현, 사칙연산 |                                                       |
+|          [AxB](https://www.acmicpc.net/problem/10998)           | B5  | 수학, 구현, 사칙연산 |                                                       |
+|        [두 수 비교하기](https://www.acmicpc.net/problem/1330)         | B5  |      구현      |                                                       |
+|       [2023 밈 투표](https://www.acmicpc.net/problem/29731)        | B5  |   구현, 문자열    | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
+|         [A+B -4](https://www.acmicpc.net/problem/10951)         | B5  | 수학, 구현, 사칙연산 |                                                       |
+|           [A+B](https://www.acmicpc.net/problem/1000)           | B5  | 수학, 구현, 사칙연산 |                                                       |
+|           [A-B](https://www.acmicpc.net/problem/1001)           | B5  | 수학, 구현, 사칙연산 |                                                       |
+|           [A/B](https://www.acmicpc.net/problem/1008)           | B5  | 수학, 구현, 사칙연산 |                                                       |
+|        [Lucky 7](https://www.acmicpc.net/problem/30224)         | B5  |    수학, 구현    | [대회 문제](https://www.acmicpc.net/category/detail/3975) |
 
 </details>
 
