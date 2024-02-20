@@ -7,6 +7,7 @@
 |      [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)       | B1  |      수학      |     [대회 문제](https://www.acmicpc.net/category/74)      |
 |           [평균](https://www.acmicpc.net/problem/1546)            | B1  |   수학, 사칙연산   |                                                       |
 |        [Hashing](https://www.acmicpc.net/problem/15829)         | B2  | 구현, 문자열, 해싱  |     [대회 문제](https://www.acmicpc.net/category/701)     |
+|          [OX 퀴즈](https://www.acmicpc.net/problem/8958)          | B2  |   구현, 문자열    |     [대회 문제](https://www.acmicpc.net/category/detail/1067)     |
 |         [ACM 호텔](https://www.acmicpc.net/problem/10250)         | B3  | 수학, 구현, 사칙연산 | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
 |       [Since 1973](https://www.acmicpc.net/problem/28135)       | B3  | 수학, 구현, 사칙연산 |     [대회 문제](https://www.acmicpc.net/category/848)     |
 |           [최댓값](https://www.acmicpc.net/problem/2562)           | B3  |      구현      |     [대회 문제](https://www.acmicpc.net/category/68)      |
@@ -15,6 +16,7 @@
 |   [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)    | B4  |      구현      | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
 |          [모비스](https://www.acmicpc.net/problem/28074)           | B4  |   구현, 문자열    |     [대회 문제](https://www.acmicpc.net/category/846)     |
 | [Рождественская лотерея](https://www.acmicpc.net/problem/29683) | B4  |   수학, 사칙연산   |     [대회 문제](https://www.acmicpc.net/category/924)     |
+|        [Oddities](https://www.acmicpc.net/problem/10480)        | B4  | 수학, 구현, 사칙연산 |     [대회 문제](https://www.acmicpc.net/category/detail/1308)     |
 |         [A+B -7](https://www.acmicpc.net/problem/11021)         | B5  | 수학, 구현, 사칙연산 |                                                       |
 |          [AxB](https://www.acmicpc.net/problem/10998)           | B5  | 수학, 구현, 사칙연산 |                                                       |
 |        [두 수 비교하기](https://www.acmicpc.net/problem/1330)         | B5  |      구현      |                                                       |
@@ -41,6 +43,8 @@
 |    [2xn 타일링2](https://www.acmicpc.net/problem/11727)    | S3  |        DP        |                                                       |
 |    [1,2,3 더하기](https://www.acmicpc.net/problem/9095)    | S3  |       그리디        | [대회 문제](https://www.acmicpc.net/category/detail/884)  |
 |    [N과 M (2)](https://www.acmicpc.net/problem/15650)    | S3  |       백트래킹       |                                                       |
+|    [N과 M (5)](https://www.acmicpc.net/problem/15654)    | S3  |       백트래킹       |                                                       |
+|       [괄호](https://www.acmicpc.net/problem/9012)        | S4  |   자료 구조 문자열 스택   | [대회 문제](https://www.acmicpc.net/category/detail/1081) |
 |       [30](https://www.acmicpc.net/problem/10610)       | S4  | 수학, 그리디, 정렬, 문자열 | [대회 문제](https://www.acmicpc.net/category/detail/1322) |
 |      [ATM](https://www.acmicpc.net/problem/11399)       | S4  |     그리디, 정렬      |                                                       |
 |    [2차원 배열의 합](https://www.acmicpc.net/problem/2167)    | S5  |     구현, 누적합      |                                                       |
