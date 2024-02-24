@@ -12,6 +12,7 @@
 |      [Union Maplestory](https://www.acmicpc.net/problem/28455)       | B2  |      구현, 정렬       | [대회 문제](https://www.acmicpc.net/category/detail/3675) |
 |            [TV 크기](https://www.acmicpc.net/problem/1297)             | B2  |   기하학, 피타고라스 정리   |                                                       |
 |            [단어의 개수](https://www.acmicpc.net/problem/1152)            | B2  |      구현, 문자열      |                                                       |
+|             [거스름돈](https://www.acmicpc.net/problem/5585)             | B2  |        그리디        | [대회 문제](https://www.acmicpc.net/category/detail/553)  |
 |           [ACM 호텔](https://www.acmicpc.net/problem/10250)            | B3  |   수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
 |         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |   수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/848)     |
 |             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |        구현         |     [대회 문제](https://www.acmicpc.net/category/68)      |
@@ -38,6 +39,7 @@
 |            [Pups](https://www.acmicpc.net/problem/26575)             | B5  |     수학, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/787)     |
 |      [Welcome to SMUPC!](https://www.acmicpc.net/problem/29699)      | B5  | 수학, 구현, 문자열, 사칙연산 | [대회 문제](https://www.acmicpc.net/category/detail/3867) |
 |          [X보다 작은 수](https://www.acmicpc.net/problem/10871)           | B5  |        구현         |                                                       |
+|             [검증 수](https://www.acmicpc.net/problem/2475)             | B5  |   수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/62)      |
 
 </details>
 
@@ -59,6 +61,7 @@
 |      [N과 M (5)](https://www.acmicpc.net/problem/15654)       | S3  |        백트래킹        |                                                        |
 |        [프린터 큐](https://www.acmicpc.net/problem/1966)         | S3  | 구현, 자료구조, 시뮬레이션, 큐 |  [대회 문제](https://www.acmicpc.net/category/detail/55)   |
 | [개발자 지망생 구름이의 취업 뽀개기](https://www.acmicpc.net/problem/29155) | S3  |      그리디, 정렬       | [대회 문제](https://www.acmicpc.net/category/detail/3855)  |
+|        [계단 오르기](https://www.acmicpc.net/problem/2579)        | S3  |         DP         | [대회 문제](https://www.acmicpc.net/category/70)  |
 |          [괄호](https://www.acmicpc.net/problem/9012)          | S4  |   자료 구조, 문자열, 스택   | [대회 문제](https://www.acmicpc.net/category/detail/1081)  |
 |      [solved.ac](https://www.acmicpc.net/problem/18110)      | S4  |     수학, 구현, 정렬     |     [대회 문제](https://www.acmicpc.net/category/693)      |
 |         [30](https://www.acmicpc.net/problem/10610)          | S4  |  수학, 그리디, 정렬, 문자열  | [대회 문제](https://www.acmicpc.net/category/detail/1322)  |
@@ -74,34 +77,37 @@
 <details>
 <summary> <b>골드 난이도</b> </summary>
 
-|                               문제명(링크)                                | 난이도 |            유형            |                          비고                           |
-|:--------------------------------------------------------------------:|:---:|:------------------------:|:-----------------------------------------------------:|
-|         [GCD(n, k)=1](https://www.acmicpc.net/problem/11689)         | G1  |            수학            |                                                       |
-|            [K번째 수](https://www.acmicpc.net/problem/1300)             | G1  |     이분 탐색, 매개 변수 탐색      |                                                       |
-|      [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)      | G2  |  이분 탐색, 가장 긴 증가하는 부분 수열  |                                                       |
-|      [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)      | G2  |  이분 탐색, 가장 긴 증가하는 부분 수열  |                                                       |
-|        [PIZZA ALVOLOC](https://www.acmicpc.net/problem/12781)        | G3  |      가하학, 선분 교차 판정       | [대회 문제](https://www.acmicpc.net/category/detail/1492) |
-|            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |            DP            |                                                       |
-|           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |       완전 탐색, 백트래킹        |                                                       |
-|     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |    그레프, 다익스트라, 최단 경로     | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
-|      [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)      | G4  |            DP            |                                                       |
-|            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |       구현, 그리디, 문자열       |                                                       |
-|             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |           기하학            |                                                       |
-| [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |            수학            |                                                       |
-|             [LCS](https://www.acmicpc.net/problem/9251)              | G5  |          DP,문자열          |                                                       |
-|      [MooTube (Silver)](https://www.acmicpc.net/problem/15591)       | G5  |           그래프            |     [대회 문제](https://www.acmicpc.net/category/415)     |
-|           [강의실 배정](https://www.acmicpc.net/problem/11000)            | G5  |  자료 구조, 그리디, 정렬, 우선순위 큐  |                                                       |
+|                               문제명(링크)                                | 난이도 |              유형               |                          비고                           |
+|:--------------------------------------------------------------------:|:---:|:-----------------------------:|:-----------------------------------------------------:|
+|         [GCD(n, k)=1](https://www.acmicpc.net/problem/11689)         | G1  |              수학               |                                                       |
+|            [K번째 수](https://www.acmicpc.net/problem/1300)             | G1  |        이분 탐색, 매개 변수 탐색        |                                                       |
+|      [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)      | G2  |    이분 탐색, 가장 긴 증가하는 부분 수열     |                                                       |
+|      [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)      | G2  |    이분 탐색, 가장 긴 증가하는 부분 수열     |                                                       |
+|        [PIZZA ALVOLOC](https://www.acmicpc.net/problem/12781)        | G3  |         가하학, 선분 교차 판정         | [대회 문제](https://www.acmicpc.net/category/detail/1492) |
+|            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |              DP               |                                                       |
+|           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |          완전 탐색, 백트래킹          |                                                       |
+|     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |       그레프, 다익스트라, 최단 경로       | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
+|      [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)      | G4  |              DP               |                                                       |
+|            [게리맨더링](https://www.acmicpc.net/problem/17471)            | G4  | 수학, 그래프, 완전 탐색, BFS, DFS, 조합론 |                                                       |
+|            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |         구현, 그리디, 문자열          |                                                       |
+|             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학              |                                                       |
+| [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |              수학               |                                                       |
+|             [LCS](https://www.acmicpc.net/problem/9251)              | G5  |            DP,문자열             |                                                       |
+|      [MooTube (Silver)](https://www.acmicpc.net/problem/15591)       | G5  |              그래프              |     [대회 문제](https://www.acmicpc.net/category/415)     |
+|           [강의실 배정](https://www.acmicpc.net/problem/11000)            | G5  |    자료 구조, 그리디, 정렬, 우선순위 큐     |                                                       |
+|           [경쟁적 전염](https://www.acmicpc.net/problem/18405)            | G5  |       구현, 그래프, BFS, DFS       |                                                       |
 
 </details>
 
 <details>
 <summary> <b>플래티넘 난이도</b> </summary>
 
-|                          문제명(링크)                           | 난이도 |          유형           | 비고 |
-|:----------------------------------------------------------:|:---:|:---------------------:|:--:|
-| [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | P5  | 이분탐색, 가장 긴 증가하는 부분 수열 |    |
-| [가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/14444)  | P5  |       문자열, 매내처        |    |
-
+|                          문제명(링크)                           | 난이도 |          유형           |                          비고                           |
+|:----------------------------------------------------------:|:---:|:---------------------:|:-----------------------------------------------------:|
+|       [고속도로](https://www.acmicpc.net/problem/10254)        | P2  | 기하학, 볼록 껍질, 회전하는 캘리퍼스 | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
+| [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | P5  | 이분탐색, 가장 긴 증가하는 부분 수열 |                                                       |
+| [가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/14444)  | P5  |       문자열, 매내처        |                                                       |
+|      [거의 최단 경로](https://www.acmicpc.net/problem/5719)      | P5  |   그래프, 다익스트라, 최단 경로   | [대회 문제](https://www.acmicpc.net/category/detail/568)  |
 
 </details>
 
