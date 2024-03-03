@@ -15,6 +15,7 @@
 |            [TV 크기](https://www.acmicpc.net/problem/1297)             | B2  |   기하학, 피타고라스 정리    |                                                       |
 |            [단어의 개수](https://www.acmicpc.net/problem/1152)            | B2  |      구현, 문자열       |                                                       |
 |             [거스름돈](https://www.acmicpc.net/problem/5585)             | B2  |        그리디         | [대회 문제](https://www.acmicpc.net/category/detail/553)  |
+|          [럭키 스트레이트](https://www.acmicpc.net/problem/18406)           | B2  |      구현, 문자열       |                                                       |
 |           [ACM 호텔](https://www.acmicpc.net/problem/10250)            | B3  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
 |         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/848)     |
 |             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |         구현         |     [대회 문제](https://www.acmicpc.net/category/68)      |
@@ -63,6 +64,7 @@
 |       [단지번호붙이기](https://www.acmicpc.net/problem/2667)        | S1  |   그래프, DFS, BFS    |     [대회 문제](https://www.acmicpc.net/category/82)      |
 |        [나무 자르기](https://www.acmicpc.net/problem/2805)        | S2  |  이분 탐색, 매개 변수 탐색   |  [대회 문제](https://www.acmicpc.net/category/detail/72)  |
 |       [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | S2  |        그래프         |                                                       |
+|        [랜선 자르기](https://www.acmicpc.net/problem/1654)        | S2  |   이분탐색, 매개변수 탐색    |                                                       |
 |        [1로 만들기](https://www.acmicpc.net/problem/1463)        | S3  |         DP         |                                                       |
 |       [2xn 타일링](https://www.acmicpc.net/problem/11726)       | S3  |         DP         |                                                       |
 |      [2xn 타일링2](https://www.acmicpc.net/problem/11727)       | S3  |         DP         |                                                       |
@@ -128,6 +130,7 @@
 |           [다각형의 면적](https://www.acmicpc.net/problem/2166)            | G5  |         기하학, 다각형의 넓이          |                                                       |
 |             [동전 2](https://www.acmicpc.net/problem/2294)             | G5  |              DP               |                                                       |
 |             [두 용액](https://www.acmicpc.net/problem/2470)             | G5  |       정렬, 이분 탐색, 투 포인터        |     [대회 문제](https://www.acmicpc.net/category/61)      |
+|           [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)           | G5  |           구현, 시뮬레이션           | [대회 문제](https://www.acmicpc.net/category/detail/216)  |
 
 </details>
 
