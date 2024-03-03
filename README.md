@@ -17,6 +17,7 @@
 |         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/848)     |
 |             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |         구현         |     [대회 문제](https://www.acmicpc.net/category/68)      |
 |           [Фигурки](https://www.acmicpc.net/problem/29029)           | B3  |      구현, 그리디       |     [대회 문제](https://www.acmicpc.net/category/892)     |
+|            [네 번째 점](https://www.acmicpc.net/problem/3009)            | B3  |      구현, 기하학       |     [대회 문제](https://www.acmicpc.net/category/100)     |
 |           [DKSH 찾기](https://www.acmicpc.net/problem/29766)           | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3869) |
 |          [Archivist](https://www.acmicpc.net/problem/28454)          | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/2348) |
 |      [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)      | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
@@ -74,12 +75,17 @@
 |         [ATM](https://www.acmicpc.net/problem/11399)         | S4  |      그리디, 정렬       |                                                       |
 |         [국영수](https://www.acmicpc.net/problem/10825)         | S4  |         정렬         |                                                       |
 |       [균형 잡힌 세상](https://www.acmicpc.net/problem/4949)       | S4  |   자료 구조, 문자열, 스택   |                                                       |
+|         [기타줄](https://www.acmicpc.net/problem/1049)          | S4  |      수학, 그리디       |                                                       |
+|   [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)    | S4  |     자료 구조, 해시      |                                                       |
 |      [2차원 배열의 합](https://www.acmicpc.net/problem/2167)       | S5  |      구현, 누적합       |                                                       |
 |        [BABBA](https://www.acmicpc.net/problem/9625)         | S5  |         DP         |                                                       |
 |        [D-Day](https://www.acmicpc.net/problem/1308)         | S5  |         구현         |                                                       |
 |        [거스름돈](https://www.acmicpc.net/problem/14916)         | S5  |     수학,그리디, DP     |     [대회 문제](https://www.acmicpc.net/category/788)     |
 |   [Array Rotation](https://www.acmicpc.net/problem/28456)    | S5  |     구현, 시뮬레이션      | [대회 문제](https://www.acmicpc.net/category/detail/3675) |
 |       [그룹 단어 체커](https://www.acmicpc.net/problem/1316)       | S5  |      구현, 문자열       |                                                       |
+|       [나이순 정렬](https://www.acmicpc.net/problem/10814)        | S5  |         정렬         |                                                       |
+|        [날짜 계산](https://www.acmicpc.net/problem/1476)         | S5  |   수학, 완전 탐색, 정수론   |                                                       |
+|       [너의 평점은](https://www.acmicpc.net/problem/25206)        | S5  |    수학, 구현, 문자열     | [대회 문제](https://www.acmicpc.net/category/detail/3124) |
 
 </details>
 
@@ -107,6 +113,7 @@
 |      [MooTube (Silver)](https://www.acmicpc.net/problem/15591)       | G5  |              그래프              |     [대회 문제](https://www.acmicpc.net/category/415)     |
 |           [강의실 배정](https://www.acmicpc.net/problem/11000)            | G5  |    자료 구조, 그리디, 정렬, 우선순위 큐     |                                                       |
 |           [경쟁적 전염](https://www.acmicpc.net/problem/18405)            | G5  |       구현, 그래프, BFS, DFS       |                                                       |
+|           [다각형의 면적](https://www.acmicpc.net/problem/2166)            | G5  |         기하학, 다각형의 넓이          |                                                       |
 
 </details>
 
@@ -125,14 +132,16 @@
 <details>
 <summary> <b>그 외</b> </summary>
 
-|                                  문제명(링크)                                   | 난이도 | 유형  |              비고              |
-|:--------------------------------------------------------------------------:|:---:|:---:|:----------------------------:|
-|                                  1이 될 때까지                                  |  -  | 그리디 |                              |
-| [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  -  | 정렬  |                              |
-|                                  DFS_BFS                                   |  -  | 그래프 |                              |
-| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  |  -  | 정렬  |                              |
-|                                 곱하기 혹은 더하기                                 |  -  | 정렬  |                              |
-|  [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  |  -  | 정렬  | 2020 KAKAO BLIND RECRUITMENT |
+|                                  문제명(링크)                                   | 난이도 |  유형   |              비고              |
+|:--------------------------------------------------------------------------:|:---:|:-----:|:----------------------------:|
+|                                  1이 될 때까지                                  |  -  |  그리디  |                              |
+| [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  -  |  정렬   |                              |
+|                                  DFS_BFS                                   |  -  |  그래프  |                              |
+| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  |  -  |  정렬   |                              |
+|                                 곱하기 혹은 더하기                                 |  -  |  정렬   |                              |
+|  [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  |  -  |  정렬   | 2020 KAKAO BLIND RECRUITMENT |
+|                                     금광                                     |  -  |  DP   |                              |
+|  [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)   |  -  | 스택, 큐 |                              |
 
 </details>
 
