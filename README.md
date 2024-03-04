@@ -9,6 +9,7 @@
 |        [Slice String](https://www.acmicpc.net/problem/30034)         | B1  |   구현, 자료 구조, 문자열   | [대회 문제](https://www.acmicpc.net/category/detail/3910) |
 |            [단어 공부](https://www.acmicpc.net/problem/1157)             | B1  |      구현, 문자열       |                                                       |
 |         [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)         | B1  |         수학         |  [대회 문제](https://www.acmicpc.net/category/detail/76)  |
+|          [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)           | B1  |     수학, 구현, DP     |                                                       |
 |           [Hashing](https://www.acmicpc.net/problem/15829)           | B2  |    구현, 문자열, 해싱     |     [대회 문제](https://www.acmicpc.net/category/701)     |
 |            [OX 퀴즈](https://www.acmicpc.net/problem/8958)             | B2  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/1067) |
 |      [Union Maplestory](https://www.acmicpc.net/problem/28455)       | B2  |       구현, 정렬       | [대회 문제](https://www.acmicpc.net/category/detail/3675) |
@@ -19,11 +20,15 @@
 |            [모스 부호](https://www.acmicpc.net/problem/29701)            | B2  | 구현, 자료 구조, 문자열, 해시 | [대회 문제](https://www.acmicpc.net/category/detail/3867) |
 |            [문자열 반복](https://www.acmicpc.net/problem/2675)            | B2  |      구현, 문자열       |  [대회 문제](https://www.acmicpc.net/category/detail/5)   |
 |              [벌집](https://www.acmicpc.net/problem/2292)              | B2  |         수학         | [대회 문제](https://www.acmicpc.net/category/detail/1089) |
+|             [분해합](https://www.acmicpc.net/problem/2231)              | B2  |       완전 탐색        | [대회 문제](https://www.acmicpc.net/category/detail/1067) |
+|             [블랙잭](https://www.acmicpc.net/problem/2798)              | B2  |       완전 탐색        | [대회 문제](https://www.acmicpc.net/category/detail/73) |
 |           [ACM 호텔](https://www.acmicpc.net/problem/10250)            | B3  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
 |         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/848)     |
 |             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |         구현         |     [대회 문제](https://www.acmicpc.net/category/68)      |
 |           [Фигурки](https://www.acmicpc.net/problem/29029)           | B3  |      구현, 그리디       |     [대회 문제](https://www.acmicpc.net/category/892)     |
 |            [네 번째 점](https://www.acmicpc.net/problem/3009)            | B3  |      구현, 기하학       |     [대회 문제](https://www.acmicpc.net/category/100)     |
+|         [첨탑 밀어서 부수기](https://www.acmicpc.net/problem/28014)          | B3  |        그리디         |     [대회 문제](https://www.acmicpc.net/category/844)     |
+|            [브실혜성](https://www.acmicpc.net/problem/29722)             | B3  |       수학, 구현       |     [대회 문제](https://www.acmicpc.net/category/detail/3876)     |
 |           [DKSH 찾기](https://www.acmicpc.net/problem/29766)           | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3869) |
 |          [Archivist](https://www.acmicpc.net/problem/28454)          | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/2348) |
 |      [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)      | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
@@ -40,6 +45,7 @@
 |       [Торговый центр](https://www.acmicpc.net/problem/28648)        | B4  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/875)     |
 |             [별 찍기](https://www.acmicpc.net/problem/2439)             | B4  |         구현         |                                                       |
 |    [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793)    | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/4069) |
+|       [브실이와 친구가 되고 싶어](https://www.acmicpc.net/problem/29736)        | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                       |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                       |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |         구현         |                                                       |
@@ -68,10 +74,13 @@
 |         [INK](https://www.acmicpc.net/problem/30036)         | S1  |     구현, 시뮬레이션      | [대회 문제](https://www.acmicpc.net/category/detail/3910) |
 |       [단지번호붙이기](https://www.acmicpc.net/problem/2667)        | S1  |   그래프, DFS, BFS    |     [대회 문제](https://www.acmicpc.net/category/82)      |
 |        [미로 탐색](https://www.acmicpc.net/problem/2178)         | S1  |      그래프, BFS      |                                                       |
+|      [블랙홀과 소행성](https://www.acmicpc.net/problem/29755)       | S1  |     정렬, 이분 탐색      |                       [대회 문제](https://www.acmicpc.net/category/209)                       |
 |        [나무 자르기](https://www.acmicpc.net/problem/2805)        | S2  |  이분 탐색, 매개 변수 탐색   |  [대회 문제](https://www.acmicpc.net/category/detail/72)  |
 |       [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | S2  |        그래프         |                                                       |
 |        [랜선 자르기](https://www.acmicpc.net/problem/1654)        | S2  |   이분탐색, 매개변수 탐색    |                                                       |
 |       [마인크래프트](https://www.acmicpc.net/problem/18111)        | S2  |     구현, 완전 탐색      |     [대회 문제](https://www.acmicpc.net/category/693)     |
+|       [병사 배치하기](https://www.acmicpc.net/problem/18353)       | S2  | DP,가장 긴 증가하는 부분 수열 |                                                       |
+|       [부분 수열의 합](https://www.acmicpc.net/problem/1182)       | S2  |    완전 탐색, 백트래킹     |                                                       |
 |        [1로 만들기](https://www.acmicpc.net/problem/1463)        | S3  |         DP         |                                                       |
 |       [2xn 타일링](https://www.acmicpc.net/problem/11726)       | S3  |         DP         |                                                       |
 |      [2xn 타일링2](https://www.acmicpc.net/problem/11727)       | S3  |         DP         |                                                       |
@@ -110,6 +119,7 @@
 |         [뒤집기](https://www.acmicpc.net/problem/1439)          | S5  |      그리디, 문자열      |                                                       |
 |         [막대기](https://www.acmicpc.net/problem/1094)          | S5  |     수학, 비트마스킹      |                                                       |
 |        [문서 검색](https://www.acmicpc.net/problem/1543)         | S5  |     문자열, 완전 탐색     |                                                       |
+|        [분수 찾기](https://www.acmicpc.net/problem/1193)         | S5  |       수학, 구현       |                                                       |
 
 </details>
 
@@ -121,6 +131,7 @@
 |         [GCD(n, k)=1](https://www.acmicpc.net/problem/11689)         | G1  |              수학               |                                                       |
 |            [K번째 수](https://www.acmicpc.net/problem/1300)             | G1  |        이분 탐색, 매개 변수 탐색        |                                                       |
 |           [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)           | G1  |              그리디              | [대회 문제](https://www.acmicpc.net/category/detail/1086) |
+|          [부분 수열의 합 2](https://www.acmicpc.net/problem/1208)          | G1  |             이분 탐색             |                                                       |
 |      [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)      | G2  |    이분 탐색, 가장 긴 증가하는 부분 수열     |                                                       |
 |      [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)      | G2  |    이분 탐색, 가장 긴 증가하는 부분 수열     |                                                       |
 |           [미확인 도착지](https://www.acmicpc.net/problem/9370)            | G2  |       그래프, 다익스트라, 최단 경로       | [대회 문제](https://www.acmicpc.net/category/detail/1160) |
@@ -138,6 +149,8 @@
 |            [공유기 설치](https://www.acmicpc.net/problem/2110)            | G4  |        이분 탐색, 매개 변수 탐색        |     [대회 문제](https://www.acmicpc.net/category/747)     |
 |          [다항 함수의 적분](https://www.acmicpc.net/problem/17214)          | G4  |    수학, 문자열, 많은 조건 분기, 미적분학    |     [대회 문제](https://www.acmicpc.net/category/791)     |
 |        [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)         | G4  |           구현, 시뮬레이션           |                         삼성 기출                         |
+|             [부분합](https://www.acmicpc.net/problem/1806)              | G4  |          누적 합, 투 포인터          |  [대회 문제](https://www.acmicpc.net/category/detail/28)  |
+|              [불!](https://www.acmicpc.net/problem/4179)              | G4  |           그래프, BFS            | [대회 문제](https://www.acmicpc.net/category/detail/480)  |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |         구현, 그리디, 문자열          |                                                       |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학              |                                                       |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |              수학               |                                                       |
@@ -150,6 +163,8 @@
 |             [두 용액](https://www.acmicpc.net/problem/2470)             | G5  |       정렬, 이분 탐색, 투 포인터        |     [대회 문제](https://www.acmicpc.net/category/61)      |
 |           [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)           | G5  |           구현, 시뮬레이션           | [대회 문제](https://www.acmicpc.net/category/detail/216)  |
 |              [배](https://www.acmicpc.net/problem/1092)               | G5  |            그리디, 정렬            |                                                       |
+|        [비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)        | G5  |        수학, 조합론, 분할 정복         |                                                       |
+|  [빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!](https://www.acmicpc.net/problem/28140)   | G5  |             이분 탐색             | [대회 문제](https://www.acmicpc.net/category/detail/3593) |
 
 </details>
 
@@ -188,7 +203,9 @@
 |                                    문자열 뒤집기                                    |  -  |   그리디    |                              |
 |                                    문자열 압축                                     |  -  |    구현    |                              |
 |                                    문자열 재정렬                                    |  -  |    구현    |                              |
-|                                     미로 탐출                                     |  -  | DFS, BFS |                              |
+|                                     미로 탈출                                     |  -  | DFS, BFS |                              |
+|                                    볼링공 고르기                                    |  -  |   그리디    |                              |
+|                                     부품 찾기                                     |  -  |  이진 탐색   |                              |
 
 </details>
 
