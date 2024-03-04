@@ -17,7 +17,8 @@
 |             [거스름돈](https://www.acmicpc.net/problem/5585)             | B2  |        그리디         | [대회 문제](https://www.acmicpc.net/category/detail/553)  |
 |          [럭키 스트레이트](https://www.acmicpc.net/problem/18406)           | B2  |      구현, 문자열       |                                                       |
 |            [모스 부호](https://www.acmicpc.net/problem/29701)            | B2  | 구현, 자료 구조, 문자열, 해시 | [대회 문제](https://www.acmicpc.net/category/detail/3867) |
-|            [문자열 반복](https://www.acmicpc.net/problem/2675)            | B2  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/5) |
+|            [문자열 반복](https://www.acmicpc.net/problem/2675)            | B2  |      구현, 문자열       |  [대회 문제](https://www.acmicpc.net/category/detail/5)   |
+|              [벌집](https://www.acmicpc.net/problem/2292)              | B2  |         수학         | [대회 문제](https://www.acmicpc.net/category/detail/1089) |
 |           [ACM 호텔](https://www.acmicpc.net/problem/10250)            | B3  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/1283) |
 |         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/848)     |
 |             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |         구현         |     [대회 문제](https://www.acmicpc.net/category/68)      |
@@ -37,6 +38,7 @@
 |           [Поп-ит](https://www.acmicpc.net/problem/30585)            | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4023) |
 |  [Amusement Park Adventure](https://www.acmicpc.net/problem/29986)   | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3902) |
 |       [Торговый центр](https://www.acmicpc.net/problem/28648)        | B4  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/875)     |
+|             [별 찍기](https://www.acmicpc.net/problem/2439)             | B4  |         구현         |                                                       |
 |    [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793)    | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/4069) |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                       |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                       |
@@ -122,9 +124,11 @@
 |      [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)      | G2  |    이분 탐색, 가장 긴 증가하는 부분 수열     |                                                       |
 |      [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)      | G2  |    이분 탐색, 가장 긴 증가하는 부분 수열     |                                                       |
 |           [미확인 도착지](https://www.acmicpc.net/problem/9370)            | G2  |       그래프, 다익스트라, 최단 경로       | [대회 문제](https://www.acmicpc.net/category/detail/1160) |
+|        [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)         | G2  |         그래프, DFS, BFS         |                                                       |
 |        [PIZZA ALVOLOC](https://www.acmicpc.net/problem/12781)        | G3  |         가하학, 선분 교차 판정         | [대회 문제](https://www.acmicpc.net/category/detail/1492) |
 |        [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)         | G3  |           구현, 시뮬레이션           |                         삼성 기출                         |
 |        [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)        | G3  |      구현, 시뮬레이션, DFS, BFS      |                         삼성 기출                         |
+|          [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          | G3  |           그래프, BFS            |                                                       |
 |            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |              DP               |                                                       |
 |           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |          완전 탐색, 백트래킹          |                                                       |
 |     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |       그레프, 다익스트라, 최단 경로       | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
@@ -145,6 +149,7 @@
 |             [동전 2](https://www.acmicpc.net/problem/2294)             | G5  |              DP               |                                                       |
 |             [두 용액](https://www.acmicpc.net/problem/2470)             | G5  |       정렬, 이분 탐색, 투 포인터        |     [대회 문제](https://www.acmicpc.net/category/61)      |
 |           [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)           | G5  |           구현, 시뮬레이션           | [대회 문제](https://www.acmicpc.net/category/detail/216)  |
+|              [배](https://www.acmicpc.net/problem/1092)               | G5  |            그리디, 정렬            |                                                       |
 
 </details>
 
