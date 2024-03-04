@@ -46,6 +46,7 @@
 |             [별 찍기](https://www.acmicpc.net/problem/2439)             | B4  |         구현         |                                                       |
 |    [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793)    | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/4069) |
 |       [브실이와 친구가 되고 싶어](https://www.acmicpc.net/problem/29736)        | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3876) |
+|       [gahui and sousenkyo 1](https://www.acmicpc.net/problem/30791)        | B4  |    구현    | [대회 문제](https://www.acmicpc.net/category/detail/4069)) |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                       |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                       |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |         구현         |                                                       |
