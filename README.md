@@ -177,6 +177,7 @@
 |             [세 용액](https://www.acmicpc.net/problem/2473)             | G3  |        정렬, 이분 탐색, 투 포인터        |     [대회 문제](https://www.acmicpc.net/category/61)      |
 |           [소문난 칠공주](https://www.acmicpc.net/problem/1941)            | G3  | 수학, 그래프, 완전 탐색, BFS, 백트래킹, 조합론 |     [대회 문제](https://www.acmicpc.net/category/747)     |
 |           [소수의 연속합](https://www.acmicpc.net/problem/1644)            | G3  |     수학, 정수론, 투 포인터, 소수 판정      | [대회 문제](https://www.acmicpc.net/category/detail/198)  |
+|            [아기 상어](https://www.acmicpc.net/problem/16236)            | G3  |      구현, 그래프, 시뮬레이션, BFS       |                                                       |
 |            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |               DP               |                                                       |
 |           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |          완전 탐색, 백트래킹           |                                                       |
 |     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |       그레프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
