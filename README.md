@@ -62,6 +62,7 @@
 |            [숫자의 합](https://www.acmicpc.net/problem/11720)            | B4  |    수학, 구현, 문자열     |                                                        |
 |           [알파벳 갯수](https://www.acmicpc.net/problem/10808)            | B4  |      구현, 문자열       |                                                        |
 |           [인공지능 시계](https://www.acmicpc.net/problem/2530)            | B4  |      수학, 사칙연산      |      [대회 문제](https://www.acmicpc.net/category/58)      |
+|        [Triple Sevens](https://www.acmicpc.net/problem/31518)        | B4  |         구현         |     [대회 문제](https://www.acmicpc.net/category/1019)     |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                        |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |         구현         |                                                        |
