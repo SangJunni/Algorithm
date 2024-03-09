@@ -13,6 +13,7 @@
 |         [소수가 아닌 수 2](https://www.acmicpc.net/problem/29196)          | B1  |      수학, 애드 혹      | [대회 문제](https://www.acmicpc.net/category/detail/3769)  |
 |        [3단 초콜릿 아이스크림](https://www.acmicpc.net/problem/28255)         | B1  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3610)  |
 |             [컵홀더](https://www.acmicpc.net/problem/2810)              | B1  |    구현, 그리디, 문자열    |  [대회 문제](https://www.acmicpc.net/category/detail/71)   |
+|            [팰린드롬수](https://www.acmicpc.net/problem/1259)             | B1  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/1142)  |
 |           [Hashing](https://www.acmicpc.net/problem/15829)           | B2  |    구현, 문자열, 해싱     |     [대회 문제](https://www.acmicpc.net/category/701)      |
 |            [OX 퀴즈](https://www.acmicpc.net/problem/8958)             | B2  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/1067)  |
 |      [Union Maplestory](https://www.acmicpc.net/problem/28455)       | B2  |       구현, 정렬       | [대회 문제](https://www.acmicpc.net/category/detail/3675)  |
@@ -44,7 +45,8 @@
 |            [직각삼각형](https://www.acmicpc.net/problem/4153)             | B3  |   수학, 기하학, 피타고라스   |  [대회 문제](https://www.acmicpc.net/category/detail/475)  |
 |           [최소, 최대](https://www.acmicpc.net/problem/10818)            | B3  |       수학, 구현       |                                                        |
 |           [최장 스트릭](https://www.acmicpc.net/problem/29752)            | B3  |         구현         |     [대회 문제](https://www.acmicpc.net/category/209)      |
-|            [택시 기하학](https://www.acmicpc.net/problem/3053)            | B3  |      수학, 기하학       |     [대회 문제](https://www.acmicpc.net/category/detail/108)     |
+|            [택시 기하학](https://www.acmicpc.net/problem/3053)            | B3  |      수학, 기하학       |  [대회 문제](https://www.acmicpc.net/category/detail/108)  |
+|         [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)         | B3  |      구현, 문자열       |                                                        |
 |           [DKSH 찾기](https://www.acmicpc.net/problem/29766)           | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
 |          [Archivist](https://www.acmicpc.net/problem/28454)          | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
 |      [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)      | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
@@ -111,6 +113,7 @@
 |            [오늘은 OS 숙제 제출일](https://www.acmicpc.net/problem/2730)             | S1  |   구현, 문자열, 완전 탐색, 파싱   |  [대회 문제](https://www.acmicpc.net/category/detail/11)  |
 |                [정수 삼각형](https://www.acmicpc.net/problem/1932)                | S1  |           DP           |     [대회 문제](https://www.acmicpc.net/category/570)     |
 |              [카드 합체 놀이](https://www.acmicpc.net/problem/15903)               | S1  |   자료 구조, 그리디, 우선순위 큐   | [대회 문제](https://www.acmicpc.net/category/detail/1891) |
+|                [포도주 시식](https://www.acmicpc.net/problem/2156)                | S1  |           DP           |                                                       |
 |                [나무 자르기](https://www.acmicpc.net/problem/2805)                | S2  |    이분 탐색, 매개 변수 탐색     |  [대회 문제](https://www.acmicpc.net/category/detail/72)  |
 |               [DFS와 BFS](https://www.acmicpc.net/problem/1260)               | S2  |          그래프           |                                                       |
 |                [랜선 자르기](https://www.acmicpc.net/problem/1654)                | S2  |     이분탐색, 매개변수 탐색      |                                                       |
@@ -147,6 +150,8 @@
 |                  [터렛](https://www.acmicpc.net/problem/1002)                  | S3  |   수학, 기하학, 많은 조건 분기    |                                                       |
 |                 [통계학](https://www.acmicpc.net/problem/2108)                  | S3  |       수학, 구현, 정렬       |                                                       |
 |                 [퇴사](https://www.acmicpc.net/problem/14501)                  | S3  |       DP, 완전 탐색        |                                                       |
+|               [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)               | S3  |      구현, 그리디, 문자열      |                                                       |
+|               [피보나치 함수](https://www.acmicpc.net/problem/1003)                | S3  |           DP           |                                                       |
 |                  [괄호](https://www.acmicpc.net/problem/9012)                  | S4  |     자료 구조, 문자열, 스택     | [대회 문제](https://www.acmicpc.net/category/detail/1081) |
 |              [solved.ac](https://www.acmicpc.net/problem/18110)              | S4  |       수학, 구현, 정렬       |     [대회 문제](https://www.acmicpc.net/category/693)     |
 |                 [30](https://www.acmicpc.net/problem/10610)                  | S4  |    수학, 그리디, 정렬, 문자열    | [대회 문제](https://www.acmicpc.net/category/detail/1322) |
@@ -204,6 +209,7 @@
 |                 [칠무해](https://www.acmicpc.net/problem/14729)                 | S5  |           정렬           | [대회 문제](https://www.acmicpc.net/category/detail/1757) |
 |                 [카드 1](https://www.acmicpc.net/problem/2161)                 | S5  |      구현, 자료 구조, 큐      |                                                       |
 |              [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)               | S5  |        구현, 문자열         |     [대회 문제](https://www.acmicpc.net/problem/2941)     |
+|              [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)              | S5  |           수학           |                                                       |
 
 </details>
 
@@ -254,6 +260,8 @@
 |          [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)           | G4  |         그래프, 최소 스패닝 트리         |                                                       |
 |              [치즈](https://www.acmicpc.net/problem/2636)              | G4  |      구현, 그래프, 시뮬레이션, BFS       |     [대회 문제](https://www.acmicpc.net/category/78)      |
 |           [카드 정렬하기](https://www.acmicpc.net/problem/1715)            | G4  |       자료 구조, 그리디, 우선순위 큐       |                                                       |
+|           [파일 합치기3](https://www.acmicpc.net/problem/13975)           | G4  |       자료 구조, 그리디, 우선순위 큐       |                                                       |
+|            [플로이드](https://www.acmicpc.net/problem/11404)             | G4  |      그래프, 최단 경로, 플로이드-워셜       |                                                       |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |          구현, 그리디, 문자열          |                                                       |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학               |                                                       |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |               수학               |                                                       |
@@ -273,6 +281,7 @@
 |             [전깃줄](https://www.acmicpc.net/problem/2565)              | G5  |               DP               |     [대회 문제](https://www.acmicpc.net/category/68)      |
 |             [집으로](https://www.acmicpc.net/problem/1069)              | G5  |      기하학, 애드 혹, 많은 조건 분기       |                                                       |
 |             [토마토](https://www.acmicpc.net/problem/7576)              | G5  |            그래프, BFS            |     [대회 문제](https://www.acmicpc.net/category/214)     |
+|           [평범한 배낭](https://www.acmicpc.net/problem/12865)            | G5  |           DP, 배낭 문제            |                                                       |
 
 </details>
 
@@ -293,43 +302,48 @@
 <details>
 <summary> <b>그 외</b> </summary>
 
-|                                    문제명(링크)                                    | 난이도 |    유형    |              비고              |
-|:-----------------------------------------------------------------------------:|:---:|:--------:|:----------------------------:|
-|                                   1이 될 때까지                                    |  -  |   그리디    |                              |
-|  [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)   |  -  |    정렬    |                              |
-|                                    DFS_BFS                                    |  -  |   그래프    |                              |
-|   [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)   |  -  |    정렬    |                              |
-|                                  곱하기 혹은 더하기                                   |  -  |    정렬    |                              |
-|   [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)    |  -  |    정렬    | 2020 KAKAO BLIND RECRUITMENT |
-|                                      금광                                       |  -  |    DP    |                              |
-|    [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)    |  -  |  스택, 큐   |                              |
-|                                  두 배열의 원소 교체                                  |  -  |    정렬    |                              |
-|                                   떡볶이 떡 만들기                                   |  -  |  이진 탐색   |                              |
-|                                  만들 수 없는 금액                                   |  -  |   그리디    |                              |
-|                                    모험가 길드                                     |  -  |   그리디    |                              |
-|                                     못생긴 수                                     |  -  |    DP    |                              |
-| [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |  -  |   그리디    | 2019 KAKAO BLIND RECRUITMENT |
-|                                    문자열 뒤집기                                    |  -  |   그리디    |                              |
-|                                    문자열 압축                                     |  -  |    구현    |                              |
-|                                    문자열 재정렬                                    |  -  |    구현    |                              |
-|                                     미로 탈출                                     |  -  | DFS, BFS |                              |
-|                                    볼링공 고르기                                    |  -  |   그리디    |                              |
-|                                     부품 찾기                                     |  -  |  이진 탐색   |                              |
-|                              성적이 낮은 순서로 학생 출력하기                               |  -  |    정렬    |                              |
-|                                      소수                                       |  -  |  소수 판정   |                              |
-|    [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     |  -  |  자료 구조   | 2019 KAKAO BLIND RECRUITMENT |
-|    [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/92334)     |  -  |    해시    | 2022 KAKAO BLIND RECRUITMENT |
-|                                     여행 계획                                     |  -  |   그래프    |                              |
-|                                   음료수 얼려 먹기                                   |  -  |   그래프    |                              |
-|                                     이진 탐색                                     |  -  |  이진 탐색   |                              |
-|  [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)   |  -  |  완전 탐색   | 2020 KAKAO BLIND RECRUITMENT |
-|                                     정렬 구현                                     |  -  |    정렬    |                              |
-|                             정렬된 배열에서 특정 수의 개수 구하기                             |  -  |  이진 탐색   |                              |
-|    [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)     |  -  |   그리디    |                              |
-|                                   +1 -1 유형                                    |  -  | +1 -1 유형 |                              |
-|                                   투 포인터 유형                                    |  -  |  투 포인터   |                              |
-|                                    큰 수의 법칙                                    |  -  |   그리디    |                              |
-|  [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)   |  -  |    구현    |         2020 카카오 인턴십         |
+|                                                            문제명(링크)                                                            | 난이도 |    유형    |              비고              |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:---:|:--------:|:----------------------------:|
+|                                                           1이 될 때까지                                                            |  -  |   그리디    |                              |
+|                          [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                           |  -  |    정렬    |                              |
+|                                                            DFS_BFS                                                            |  -  |   그래프    |                              |
+|                           [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                           |  -  |    정렬    |                              |
+|                                                          곱하기 혹은 더하기                                                           |  -  |    정렬    |                              |
+|                           [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)                            |  -  |    정렬    | 2020 KAKAO BLIND RECRUITMENT |
+|                                                              금광                                                               |  -  |    DP    |                              |
+|                            [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                            |  -  |  스택, 큐   |                              |
+|                                                          두 배열의 원소 교체                                                          |  -  |    정렬    |                              |
+|                                                           떡볶이 떡 만들기                                                           |  -  |  이진 탐색   |                              |
+|                                                          만들 수 없는 금액                                                           |  -  |   그리디    |                              |
+|                                                            모험가 길드                                                             |  -  |   그리디    |                              |
+|                                                             못생긴 수                                                             |  -  |    DP    |                              |
+|                         [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)                         |  -  |   그리디    | 2019 KAKAO BLIND RECRUITMENT |
+|                                                            문자열 뒤집기                                                            |  -  |   그리디    |                              |
+|                                                            문자열 압축                                                             |  -  |    구현    |                              |
+|                                                            문자열 재정렬                                                            |  -  |    구현    |                              |
+|                                                             미로 탈출                                                             |  -  | DFS, BFS |                              |
+|                                                            볼링공 고르기                                                            |  -  |   그리디    |                              |
+|                                                             부품 찾기                                                             |  -  |  이진 탐색   |                              |
+|                                                      성적이 낮은 순서로 학생 출력하기                                                       |  -  |    정렬    |                              |
+|                                                              소수                                                               |  -  |  소수 판정   |                              |
+|                            [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                             |  -  |  자료 구조   | 2019 KAKAO BLIND RECRUITMENT |
+|                            [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                             |  -  |    해시    | 2022 KAKAO BLIND RECRUITMENT |
+|                                                             여행 계획                                                             |  -  |   그래프    |                              |
+|                                                           음료수 얼려 먹기                                                           |  -  |   그래프    |                              |
+|                                                             이진 탐색                                                             |  -  |  이진 탐색   |                              |
+|                          [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)                           |  -  |  완전 탐색   | 2020 KAKAO BLIND RECRUITMENT |
+|                                                             정렬 구현                                                             |  -  |    정렬    |                              |
+|                                                     정렬된 배열에서 특정 수의 개수 구하기                                                     |  -  |  이진 탐색   |                              |
+|                            [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                             |  -  |   그리디    |                              |
+|                                                           +1 -1 유형                                                            |  -  | +1 -1 유형 |                              |
+|                                                           투 포인터 유형                                                            |  -  |  투 포인터   |                              |
+|                                                            큰 수의 법칙                                                            |  -  |   그리디    |                              |
+|                          [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                           |  -  |    구현    |         2020 카카오 인턴십         |
+|         [팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20)         |  -  |    구현    |      삼성 2022년 상반기 오후 2번      |
+|                                                             편집거리                                                              |  -  |    DP    |                              |
+| [포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/submissions?page=1&pageSize=20) |  -  |    구현    |      삼성 2023년 상반기 오후 1번      |
+|                            [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                             |  -  |  스택, 큐   |                              |
+
 </details>
 
 ## Algorithm 스터디 공부 내역
