@@ -75,6 +75,8 @@
 |    [Fold the Paper Nicely](https://www.acmicpc.net/problem/26340)    | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3267)  |
 |           [Periods](https://www.acmicpc.net/problem/26560)           | B4  |        문자열         |     [대회 문제](https://www.acmicpc.net/category/786)      |
 |             [시계탑](https://www.acmicpc.net/problem/31561)             | B4  |      수학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4171)  |
+|      [Äpplen och päron](https://www.acmicpc.net/problem/21354)       | B4  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/523)      |
+|   [Good Coin Denomination](https://www.acmicpc.net/problem/26350)    | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3268)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                        |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |         구현         |                                                        |
