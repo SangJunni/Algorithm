@@ -97,6 +97,7 @@
 |         [코드마스터 2023](https://www.acmicpc.net/problem/28235)          | B5  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
 |             [학점계산](https://www.acmicpc.net/problem/2754)             | B5  |      구현, 문자열       |                                                        |
 |            [행렬 덧셈](https://www.acmicpc.net/problem/2738)             | B5  |       수학, 구현       |                                                        |
+|         [果物 (Fruit)](https://www.acmicpc.net/problem/31606)          | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 
 </details>
 
