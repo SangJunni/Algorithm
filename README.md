@@ -100,6 +100,8 @@
 |         [果物 (Fruit)](https://www.acmicpc.net/problem/31606)          | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |    [飴の袋詰め (Drops Packing)](https://www.acmicpc.net/problem/31610)    | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |        [火曜日 (Tuesday)](https://www.acmicpc.net/problem/31611)        | B5  |    수학, 구현, 사칙연산    |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|         [分 (Minutes)](https://www.acmicpc.net/problem/31614)         | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|  [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608)  | B5  |      구현, 문자열       |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 
 </details>
 
