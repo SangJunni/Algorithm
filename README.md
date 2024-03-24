@@ -80,6 +80,7 @@
 | [現れている数字 (Appearing Numbers)](https://www.acmicpc.net/problem/31609) | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |     [画数数え (Stroke Count)](https://www.acmicpc.net/problem/31612)     | B4  |   수학, 문자열, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |   [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616)   | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|   [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636)   | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4178)  |
 |         [Sticky Keys](https://www.acmicpc.net/problem/31656)         | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4183)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                        |
