@@ -82,6 +82,7 @@
 |   [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616)   | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |   [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636)   | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4178)  |
 |         [Sticky Keys](https://www.acmicpc.net/problem/31656)         | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4183)  |
+|      [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607)      | B4  |      수학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                        |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |         구현         |                                                        |
