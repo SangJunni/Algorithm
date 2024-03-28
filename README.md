@@ -2,113 +2,116 @@
 <details>
 <summary> <b>브론즈 난이도</b> </summary>
 
-|                               문제명(링크)                                | 난이도 |         유형         |                           비고                           |
-|:--------------------------------------------------------------------:|:---:|:------------------:|:------------------------------------------------------:|
-|         [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)         | B1  |         수학         |      [대회 문제](https://www.acmicpc.net/category/74)      |
-|              [평균](https://www.acmicpc.net/problem/1546)              | B1  |      수학, 사칙연산      |                                                        |
-|        [Slice String](https://www.acmicpc.net/problem/30034)         | B1  |   구현, 자료 구조, 문자열   | [대회 문제](https://www.acmicpc.net/category/detail/3910)  |
-|            [단어 공부](https://www.acmicpc.net/problem/1157)             | B1  |      구현, 문자열       |                                                        |
-|         [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)         | B1  |         수학         |  [대회 문제](https://www.acmicpc.net/category/detail/76)   |
-|          [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)           | B1  |     수학, 구현, DP     |                                                        |
-|         [소수가 아닌 수 2](https://www.acmicpc.net/problem/29196)          | B1  |      수학, 애드 혹      | [대회 문제](https://www.acmicpc.net/category/detail/3769)  |
-|        [3단 초콜릿 아이스크림](https://www.acmicpc.net/problem/28255)         | B1  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3610)  |
-|             [컵홀더](https://www.acmicpc.net/problem/2810)              | B1  |    구현, 그리디, 문자열    |  [대회 문제](https://www.acmicpc.net/category/detail/71)   |
-|            [팰린드롬수](https://www.acmicpc.net/problem/1259)             | B1  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/1142)  |
-|           [Hashing](https://www.acmicpc.net/problem/15829)           | B2  |    구현, 문자열, 해싱     |     [대회 문제](https://www.acmicpc.net/category/701)      |
-|            [OX 퀴즈](https://www.acmicpc.net/problem/8958)             | B2  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/1067)  |
-|      [Union Maplestory](https://www.acmicpc.net/problem/28455)       | B2  |       구현, 정렬       | [대회 문제](https://www.acmicpc.net/category/detail/3675)  |
-|            [TV 크기](https://www.acmicpc.net/problem/1297)             | B2  |   기하학, 피타고라스 정리    |                                                        |
-|            [단어의 개수](https://www.acmicpc.net/problem/1152)            | B2  |      구현, 문자열       |                                                        |
-|             [거스름돈](https://www.acmicpc.net/problem/5585)             | B2  |        그리디         |  [대회 문제](https://www.acmicpc.net/category/detail/553)  |
-|          [럭키 스트레이트](https://www.acmicpc.net/problem/18406)           | B2  |      구현, 문자열       |                                                        |
-|            [모스 부호](https://www.acmicpc.net/problem/29701)            | B2  | 구현, 자료 구조, 문자열, 해시 | [대회 문제](https://www.acmicpc.net/category/detail/3867)  |
-|            [문자열 반복](https://www.acmicpc.net/problem/2675)            | B2  |      구현, 문자열       |   [대회 문제](https://www.acmicpc.net/category/detail/5)   |
-|              [벌집](https://www.acmicpc.net/problem/2292)              | B2  |         수학         | [대회 문제](https://www.acmicpc.net/category/detail/1089)  |
-|             [분해합](https://www.acmicpc.net/problem/2231)              | B2  |       완전 탐색        | [대회 문제](https://www.acmicpc.net/category/detail/1067)  |
-|             [블랙잭](https://www.acmicpc.net/problem/2798)              | B2  |       완전 탐색        |  [대회 문제](https://www.acmicpc.net/category/detail/73)   |
-|              [상수](https://www.acmicpc.net/problem/2908)              | B2  |       수학, 구현       |  [대회 문제](https://www.acmicpc.net/category/detail/85)   |
-|            [소수 찾기](https://www.acmicpc.net/problem/1978)             | B2  |   수학, 정수론, 소수 판정   |                                                        |
-|            [숫자의 갯수](https://www.acmicpc.net/problem/2577)            | B2  |    수학, 구현, 사칙연산    |      [대회 문제](https://www.acmicpc.net/category/70)      |
-|            [시험 감독](https://www.acmicpc.net/problem/13458)            | B2  |      수학, 사칙연산      |                                                        |
-|           [알파벳 찾기](https://www.acmicpc.net/problem/10809)            | B2  |      구현, 문자열       |                                                        |
-|          [점심시간 레이스](https://www.acmicpc.net/problem/28236)           | B2  |      수학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
-|           [ACM 호텔](https://www.acmicpc.net/problem/10250)            | B3  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/1283)  |
-|         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/848)      |
-|             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |         구현         |      [대회 문제](https://www.acmicpc.net/category/68)      |
-|           [Фигурки](https://www.acmicpc.net/problem/29029)           | B3  |      구현, 그리디       |     [대회 문제](https://www.acmicpc.net/category/892)      |
-|            [네 번째 점](https://www.acmicpc.net/problem/3009)            | B3  |      구현, 기하학       |     [대회 문제](https://www.acmicpc.net/category/100)      |
-|         [첨탑 밀어서 부수기](https://www.acmicpc.net/problem/28014)          | B3  |        그리디         |     [대회 문제](https://www.acmicpc.net/category/844)      |
-|            [브실혜성](https://www.acmicpc.net/problem/29722)             | B3  |       수학, 구현       | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
-|           [삼각형과 세 변](https://www.acmicpc.net/problem/5073)           | B3  |    수학, 구현, 기하학     |  [대회 문제](https://www.acmicpc.net/category/detail/445)  |
-|          [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)           | B3  |   수학, 그리디, 사칙연산    |  [대회 문제](https://www.acmicpc.net/category/detail/10)   |
-|          [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)           | B3  |      수학, 기하학       |                                                        |
-|            [직각삼각형](https://www.acmicpc.net/problem/4153)             | B3  |   수학, 기하학, 피타고라스   |  [대회 문제](https://www.acmicpc.net/category/detail/475)  |
-|           [최소, 최대](https://www.acmicpc.net/problem/10818)            | B3  |       수학, 구현       |                                                        |
-|           [최장 스트릭](https://www.acmicpc.net/problem/29752)            | B3  |         구현         |     [대회 문제](https://www.acmicpc.net/category/209)      |
-|            [택시 기하학](https://www.acmicpc.net/problem/3053)            | B3  |      수학, 기하학       |  [대회 문제](https://www.acmicpc.net/category/detail/108)  |
-|         [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)         | B3  |      구현, 문자열       |                                                        |
-|           [DKSH 찾기](https://www.acmicpc.net/problem/29766)           | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
-|          [Archivist](https://www.acmicpc.net/problem/28454)          | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
-|      [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)      | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
-|             [모비스](https://www.acmicpc.net/problem/28074)             | B4  |      구현, 문자열       |     [대회 문제](https://www.acmicpc.net/category/846)      |
-|   [Рождественская лотерея](https://www.acmicpc.net/problem/29683)    | B4  |      수학, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/924)      |
-|          [Oddities](https://www.acmicpc.net/problem/10480)           | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/1308)  |
-|       [Previous Level](https://www.acmicpc.net/problem/28453)        | B4  |    구현, 많은 조건 분기    | [대회 문제](https://www.acmicpc.net/category/detail/3675)  |
-|         [Rust Study](https://www.acmicpc.net/problem/30033)          | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3910)  |
-|            [Файлы](https://www.acmicpc.net/problem/29546)            | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3827)  |
-| [Advance to Taoyuan Regional](https://www.acmicpc.net/problem/30319) | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3989)  |
-|          [공백 없는 A+B](https://www.acmicpc.net/problem/15873)          | B4  | 수학, 사칙연산, 많은 조건 분기 |                                                        |
-|           [Поп-ит](https://www.acmicpc.net/problem/30585)            | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4023)  |
-|  [Amusement Park Adventure](https://www.acmicpc.net/problem/29986)   | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3902)  |
-|       [Торговый центр](https://www.acmicpc.net/problem/28648)        | B4  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/875)      |
-|             [별 찍기](https://www.acmicpc.net/problem/2439)             | B4  |         구현         |                                                        |
-|    [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793)    | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/4069)  |
-|       [브실이와 친구가 되고 싶어](https://www.acmicpc.net/problem/29736)        | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
-|    [gahui and sousenkyo 1](https://www.acmicpc.net/problem/30791)    | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/4069)) |
-|           [삼각형 외우기](https://www.acmicpc.net/problem/10101)           | B4  |      구현, 기하학       | [대회 문제](https://www.acmicpc.net/category/detail/1261)  |
-|            [숫자의 합](https://www.acmicpc.net/problem/11720)            | B4  |    수학, 구현, 문자열     |                                                        |
-|           [알파벳 갯수](https://www.acmicpc.net/problem/10808)            | B4  |      구현, 문자열       |                                                        |
-|           [인공지능 시계](https://www.acmicpc.net/problem/2530)            | B4  |      수학, 사칙연산      |      [대회 문제](https://www.acmicpc.net/category/58)      |
-|        [Triple Sevens](https://www.acmicpc.net/problem/31518)        | B4  |         구현         |     [대회 문제](https://www.acmicpc.net/category/1019)     |
-|          [Cornhole](https://www.acmicpc.net/problem/27855)           | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3555)  |
-|          [치즈버거 만들기](https://www.acmicpc.net/problem/30017)           | B4  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/943)      |
-|    [Fold the Paper Nicely](https://www.acmicpc.net/problem/26340)    | B4  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3267)  |
-|           [Periods](https://www.acmicpc.net/problem/26560)           | B4  |        문자열         |     [대회 문제](https://www.acmicpc.net/category/786)      |
-|             [시계탑](https://www.acmicpc.net/problem/31561)             | B4  |      수학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4171)  |
-|      [Äpplen och päron](https://www.acmicpc.net/problem/21354)       | B4  |    수학, 구현, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/523)      |
-|   [Good Coin Denomination](https://www.acmicpc.net/problem/26350)    | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3268)  |
-| [現れている数字 (Appearing Numbers)](https://www.acmicpc.net/problem/31609) | B4  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|     [画数数え (Stroke Count)](https://www.acmicpc.net/problem/31612)     | B4  |   수학, 문자열, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|   [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616)   | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|   [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636)   | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4178)  |
-|         [Sticky Keys](https://www.acmicpc.net/problem/31656)         | B4  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/4183)  |
-|      [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607)      | B4  |      수학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |    수학, 구현, 사칙연산    |                                                        |
-|             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |    수학, 구현, 사칙연산    |                                                        |
-|           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |         구현         |                                                        |
-|          [2023 밈 투표](https://www.acmicpc.net/problem/29731)          | B5  |      구현, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
-|           [A+B -4](https://www.acmicpc.net/problem/10951)            | B5  |    수학, 구현, 사칙연산    |                                                        |
-|             [A+B](https://www.acmicpc.net/problem/1000)              | B5  |    수학, 구현, 사칙연산    |                                                        |
-|             [A-B](https://www.acmicpc.net/problem/1001)              | B5  |    수학, 구현, 사칙연산    |                                                        |
-|             [A/B](https://www.acmicpc.net/problem/1008)              | B5  |    수학, 구현, 사칙연산    |                                                        |
-|           [Lucky 7](https://www.acmicpc.net/problem/30224)           | B5  |       수학, 구현       | [대회 문제](https://www.acmicpc.net/category/detail/3975)  |
-|            [Pups](https://www.acmicpc.net/problem/26575)             | B5  |      수학, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/787)      |
-|      [Welcome to SMUPC!](https://www.acmicpc.net/problem/29699)      | B5  | 수학, 구현, 문자열, 사칙연산  | [대회 문제](https://www.acmicpc.net/category/detail/3867)  |
-|             [검증 수](https://www.acmicpc.net/problem/2475)             | B5  |    수학, 구현, 사칙연산    |      [대회 문제](https://www.acmicpc.net/category/62)      |
-|          [X보다 작은 수](https://www.acmicpc.net/problem/10871)           | B5  |         구현         |                                                        |
-|             [삼각형](https://www.acmicpc.net/problem/29751)             | B5  |   수학, 기하학, 사칙연산    |     [대회 문제](https://www.acmicpc.net/category/209)      |
-|             [세금](https://www.acmicpc.net/problem/20492)              | B5  |      수학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/2376)  |
-|           [세제곱의 합](https://www.acmicpc.net/problem/28701)            | B5  |    수학, 구현, 사칙연산    | [대회 문제](https://www.acmicpc.net/category/detail/3707)  |
-|     [조별과제를 하려는데 조장이 사라졌다](https://www.acmicpc.net/problem/15727)     | B5  |      수학, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/789)      |
-|         [코드마스터 2023](https://www.acmicpc.net/problem/28235)          | B5  |         구현         | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
-|             [학점계산](https://www.acmicpc.net/problem/2754)             | B5  |      구현, 문자열       |                                                        |
-|            [행렬 덧셈](https://www.acmicpc.net/problem/2738)             | B5  |       수학, 구현       |                                                        |
-|         [果物 (Fruit)](https://www.acmicpc.net/problem/31606)          | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|    [飴の袋詰め (Drops Packing)](https://www.acmicpc.net/problem/31610)    | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|        [火曜日 (Tuesday)](https://www.acmicpc.net/problem/31611)        | B5  |    수학, 구현, 사칙연산    |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|         [分 (Minutes)](https://www.acmicpc.net/problem/31614)         | B5  |      수학, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|  [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608)  | B5  |      구현, 문자열       |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
-|       [Adding Trouble](https://www.acmicpc.net/problem/31654)        | B5  |      구현, 문자열       |  대회 문제](https://www.acmicpc.net/category/detail/4183)  |
+|                               문제명(링크)                                | 난이도 |          유형           |                           비고                           |
+|:--------------------------------------------------------------------:|:---:|:---------------------:|:------------------------------------------------------:|
+|         [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)         | B1  |          수학           |      [대회 문제](https://www.acmicpc.net/category/74)      |
+|              [평균](https://www.acmicpc.net/problem/1546)              | B1  |       수학, 사칙연산        |                                                        |
+|        [Slice String](https://www.acmicpc.net/problem/30034)         | B1  |    구현, 자료 구조, 문자열     | [대회 문제](https://www.acmicpc.net/category/detail/3910)  |
+|            [단어 공부](https://www.acmicpc.net/problem/1157)             | B1  |        구현, 문자열        |                                                        |
+|         [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)         | B1  |          수학           |  [대회 문제](https://www.acmicpc.net/category/detail/76)   |
+|          [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)           | B1  |      수학, 구현, DP       |                                                        |
+|         [소수가 아닌 수 2](https://www.acmicpc.net/problem/29196)          | B1  |       수학, 애드 혹        | [대회 문제](https://www.acmicpc.net/category/detail/3769)  |
+|        [3단 초콜릿 아이스크림](https://www.acmicpc.net/problem/28255)         | B1  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3610)  |
+|             [컵홀더](https://www.acmicpc.net/problem/2810)              | B1  |     구현, 그리디, 문자열      |  [대회 문제](https://www.acmicpc.net/category/detail/71)   |
+|            [팰린드롬수](https://www.acmicpc.net/problem/1259)             | B1  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/1142)  |
+|           [Hashing](https://www.acmicpc.net/problem/15829)           | B2  |      구현, 문자열, 해싱      |     [대회 문제](https://www.acmicpc.net/category/701)      |
+|            [OX 퀴즈](https://www.acmicpc.net/problem/8958)             | B2  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/1067)  |
+|      [Union Maplestory](https://www.acmicpc.net/problem/28455)       | B2  |        구현, 정렬         | [대회 문제](https://www.acmicpc.net/category/detail/3675)  |
+|            [TV 크기](https://www.acmicpc.net/problem/1297)             | B2  |     기하학, 피타고라스 정리     |                                                        |
+|            [단어의 개수](https://www.acmicpc.net/problem/1152)            | B2  |        구현, 문자열        |                                                        |
+|             [거스름돈](https://www.acmicpc.net/problem/5585)             | B2  |          그리디          |  [대회 문제](https://www.acmicpc.net/category/detail/553)  |
+|          [럭키 스트레이트](https://www.acmicpc.net/problem/18406)           | B2  |        구현, 문자열        |                                                        |
+|            [모스 부호](https://www.acmicpc.net/problem/29701)            | B2  |  구현, 자료 구조, 문자열, 해시   | [대회 문제](https://www.acmicpc.net/category/detail/3867)  |
+|            [문자열 반복](https://www.acmicpc.net/problem/2675)            | B2  |        구현, 문자열        |   [대회 문제](https://www.acmicpc.net/category/detail/5)   |
+|              [벌집](https://www.acmicpc.net/problem/2292)              | B2  |          수학           | [대회 문제](https://www.acmicpc.net/category/detail/1089)  |
+|             [분해합](https://www.acmicpc.net/problem/2231)              | B2  |         완전 탐색         | [대회 문제](https://www.acmicpc.net/category/detail/1067)  |
+|             [블랙잭](https://www.acmicpc.net/problem/2798)              | B2  |         완전 탐색         |  [대회 문제](https://www.acmicpc.net/category/detail/73)   |
+|              [상수](https://www.acmicpc.net/problem/2908)              | B2  |        수학, 구현         |  [대회 문제](https://www.acmicpc.net/category/detail/85)   |
+|            [소수 찾기](https://www.acmicpc.net/problem/1978)             | B2  |    수학, 정수론, 소수 판정     |                                                        |
+|            [숫자의 갯수](https://www.acmicpc.net/problem/2577)            | B2  |     수학, 구현, 사칙연산      |      [대회 문제](https://www.acmicpc.net/category/70)      |
+|            [시험 감독](https://www.acmicpc.net/problem/13458)            | B2  |       수학, 사칙연산        |                                                        |
+|           [알파벳 찾기](https://www.acmicpc.net/problem/10809)            | B2  |        구현, 문자열        |                                                        |
+|          [점심시간 레이스](https://www.acmicpc.net/problem/28236)           | B2  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
+|           [ACM 호텔](https://www.acmicpc.net/problem/10250)            | B3  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1283)  |
+|         [Since 1973](https://www.acmicpc.net/problem/28135)          | B3  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/848)      |
+|             [최댓값](https://www.acmicpc.net/problem/2562)              | B3  |          구현           |      [대회 문제](https://www.acmicpc.net/category/68)      |
+|           [Фигурки](https://www.acmicpc.net/problem/29029)           | B3  |        구현, 그리디        |     [대회 문제](https://www.acmicpc.net/category/892)      |
+|            [네 번째 점](https://www.acmicpc.net/problem/3009)            | B3  |        구현, 기하학        |     [대회 문제](https://www.acmicpc.net/category/100)      |
+|         [첨탑 밀어서 부수기](https://www.acmicpc.net/problem/28014)          | B3  |          그리디          |     [대회 문제](https://www.acmicpc.net/category/844)      |
+|            [브실혜성](https://www.acmicpc.net/problem/29722)             | B3  |        수학, 구현         | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
+|           [삼각형과 세 변](https://www.acmicpc.net/problem/5073)           | B3  |      수학, 구현, 기하학      |  [대회 문제](https://www.acmicpc.net/category/detail/445)  |
+|          [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)           | B3  |     수학, 그리디, 사칙연산     |  [대회 문제](https://www.acmicpc.net/category/detail/10)   |
+|          [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)           | B3  |        수학, 기하학        |                                                        |
+|            [직각삼각형](https://www.acmicpc.net/problem/4153)             | B3  |    수학, 기하학, 피타고라스     |  [대회 문제](https://www.acmicpc.net/category/detail/475)  |
+|           [최소, 최대](https://www.acmicpc.net/problem/10818)            | B3  |        수학, 구현         |                                                        |
+|           [최장 스트릭](https://www.acmicpc.net/problem/29752)            | B3  |          구현           |     [대회 문제](https://www.acmicpc.net/category/209)      |
+|            [택시 기하학](https://www.acmicpc.net/problem/3053)            | B3  |        수학, 기하학        |  [대회 문제](https://www.acmicpc.net/category/detail/108)  |
+|         [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)         | B3  |        구현, 문자열        |                                                        |
+|           [DKSH 찾기](https://www.acmicpc.net/problem/29766)           | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
+|          [Archivist](https://www.acmicpc.net/problem/28454)          | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
+|      [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)      | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
+|             [모비스](https://www.acmicpc.net/problem/28074)             | B4  |        구현, 문자열        |     [대회 문제](https://www.acmicpc.net/category/846)      |
+|   [Рождественская лотерея](https://www.acmicpc.net/problem/29683)    | B4  |       수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/924)      |
+|          [Oddities](https://www.acmicpc.net/problem/10480)           | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1308)  |
+|       [Previous Level](https://www.acmicpc.net/problem/28453)        | B4  |     구현, 많은 조건 분기      | [대회 문제](https://www.acmicpc.net/category/detail/3675)  |
+|         [Rust Study](https://www.acmicpc.net/problem/30033)          | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/3910)  |
+|            [Файлы](https://www.acmicpc.net/problem/29546)            | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3827)  |
+| [Advance to Taoyuan Regional](https://www.acmicpc.net/problem/30319) | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3989)  |
+|          [공백 없는 A+B](https://www.acmicpc.net/problem/15873)          | B4  |  수학, 사칙연산, 많은 조건 분기   |                                                        |
+|           [Поп-ит](https://www.acmicpc.net/problem/30585)            | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/4023)  |
+|  [Amusement Park Adventure](https://www.acmicpc.net/problem/29986)   | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/3902)  |
+|       [Торговый центр](https://www.acmicpc.net/problem/28648)        | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/875)      |
+|             [별 찍기](https://www.acmicpc.net/problem/2439)             | B4  |          구현           |                                                        |
+|    [gahui and sousenkyo 3](https://www.acmicpc.net/problem/30793)    | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4069)  |
+|       [브실이와 친구가 되고 싶어](https://www.acmicpc.net/problem/29736)        | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
+|    [gahui and sousenkyo 1](https://www.acmicpc.net/problem/30791)    | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/4069)) |
+|           [삼각형 외우기](https://www.acmicpc.net/problem/10101)           | B4  |        구현, 기하학        | [대회 문제](https://www.acmicpc.net/category/detail/1261)  |
+|            [숫자의 합](https://www.acmicpc.net/problem/11720)            | B4  |      수학, 구현, 문자열      |                                                        |
+|           [알파벳 갯수](https://www.acmicpc.net/problem/10808)            | B4  |        구현, 문자열        |                                                        |
+|           [인공지능 시계](https://www.acmicpc.net/problem/2530)            | B4  |       수학, 사칙연산        |      [대회 문제](https://www.acmicpc.net/category/58)      |
+|        [Triple Sevens](https://www.acmicpc.net/problem/31518)        | B4  |          구현           |     [대회 문제](https://www.acmicpc.net/category/1019)     |
+|          [Cornhole](https://www.acmicpc.net/problem/27855)           | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3555)  |
+|          [치즈버거 만들기](https://www.acmicpc.net/problem/30017)           | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/943)      |
+|    [Fold the Paper Nicely](https://www.acmicpc.net/problem/26340)    | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3267)  |
+|           [Periods](https://www.acmicpc.net/problem/26560)           | B4  |          문자열          |     [대회 문제](https://www.acmicpc.net/category/786)      |
+|             [시계탑](https://www.acmicpc.net/problem/31561)             | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/4171)  |
+|      [Äpplen och päron](https://www.acmicpc.net/problem/21354)       | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/523)      |
+|   [Good Coin Denomination](https://www.acmicpc.net/problem/26350)    | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/3268)  |
+| [現れている数字 (Appearing Numbers)](https://www.acmicpc.net/problem/31609) | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|     [画数数え (Stroke Count)](https://www.acmicpc.net/problem/31612)     | B4  |     수학, 문자열, 사칙연산     | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|   [揃った文字 (Matched Letters)](https://www.acmicpc.net/problem/31616)   | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|   [三連続 (Three Consecutive)](https://www.acmicpc.net/problem/31636)   | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/4178)  |
+|         [Sticky Keys](https://www.acmicpc.net/problem/31656)         | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/4183)  |
+|     [和の判定 (Sum Checker)](https://www.acmicpc.net/problem/31607)      | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|          [桁 (Digit)](https://www.acmicpc.net/problem/31615)          | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|           [Комната](https://www.acmicpc.net/problem/27245)           | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3454)  |
+|        [Sun and Moon](https://www.acmicpc.net/problem/27590)         | B4  | 구현, 브루트포스 알고리즘, 시뮬레이션 | [대회 문제](https://www.acmicpc.net/category/detail/3516)  |
+|           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
+|             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
+|           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |          구현           |                                                        |
+|          [2023 밈 투표](https://www.acmicpc.net/problem/29731)          | B5  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
+|           [A+B -4](https://www.acmicpc.net/problem/10951)            | B5  |     수학, 구현, 사칙연산      |                                                        |
+|             [A+B](https://www.acmicpc.net/problem/1000)              | B5  |     수학, 구현, 사칙연산      |                                                        |
+|             [A-B](https://www.acmicpc.net/problem/1001)              | B5  |     수학, 구현, 사칙연산      |                                                        |
+|             [A/B](https://www.acmicpc.net/problem/1008)              | B5  |     수학, 구현, 사칙연산      |                                                        |
+|           [Lucky 7](https://www.acmicpc.net/problem/30224)           | B5  |        수학, 구현         | [대회 문제](https://www.acmicpc.net/category/detail/3975)  |
+|            [Pups](https://www.acmicpc.net/problem/26575)             | B5  |       수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/787)      |
+|      [Welcome to SMUPC!](https://www.acmicpc.net/problem/29699)      | B5  |   수학, 구현, 문자열, 사칙연산   | [대회 문제](https://www.acmicpc.net/category/detail/3867)  |
+|             [검증 수](https://www.acmicpc.net/problem/2475)             | B5  |     수학, 구현, 사칙연산      |      [대회 문제](https://www.acmicpc.net/category/62)      |
+|          [X보다 작은 수](https://www.acmicpc.net/problem/10871)           | B5  |          구현           |                                                        |
+|             [삼각형](https://www.acmicpc.net/problem/29751)             | B5  |     수학, 기하학, 사칙연산     |     [대회 문제](https://www.acmicpc.net/category/209)      |
+|             [세금](https://www.acmicpc.net/problem/20492)              | B5  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/2376)  |
+|           [세제곱의 합](https://www.acmicpc.net/problem/28701)            | B5  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3707)  |
+|     [조별과제를 하려는데 조장이 사라졌다](https://www.acmicpc.net/problem/15727)     | B5  |       수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/789)      |
+|         [코드마스터 2023](https://www.acmicpc.net/problem/28235)          | B5  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
+|             [학점계산](https://www.acmicpc.net/problem/2754)             | B5  |        구현, 문자열        |                                                        |
+|            [행렬 덧셈](https://www.acmicpc.net/problem/2738)             | B5  |        수학, 구현         |                                                        |
+|         [果物 (Fruit)](https://www.acmicpc.net/problem/31606)          | B5  |       수학, 사칙연산        |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|    [飴の袋詰め (Drops Packing)](https://www.acmicpc.net/problem/31610)    | B5  |       수학, 사칙연산        |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|        [火曜日 (Tuesday)](https://www.acmicpc.net/problem/31611)        | B5  |     수학, 구현, 사칙연산      |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|         [分 (Minutes)](https://www.acmicpc.net/problem/31614)         | B5  |       수학, 사칙연산        |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|  [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608)  | B5  |        구현, 문자열        |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
+|       [Adding Trouble](https://www.acmicpc.net/problem/31654)        | B5  |        구현, 문자열        |  대회 문제](https://www.acmicpc.net/category/detail/4183)  |
 
 </details>
 
