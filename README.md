@@ -91,6 +91,9 @@
 |        [Poziome serca](https://www.acmicpc.net/problem/26772)        | B4  |          구현           |     [대회 문제](https://www.acmicpc.net/category/719)      |
 |         [Vowel Count](https://www.acmicpc.net/problem/26314)         | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3265)  |
 |           [특별한 가지](https://www.acmicpc.net/problem/31668)            | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/4188)  |
+|      [SciComLove (2024)](https://www.acmicpc.net/problem/31746)      | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/4193)  |
+|        [Deliv-e-droid](https://www.acmicpc.net/problem/28248)        | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3615)  |
+|      [Граничные клетки](https://www.acmicpc.net/problem/27213)       | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3448)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |          구현           |                                                        |
