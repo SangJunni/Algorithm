@@ -97,6 +97,7 @@
 |         [Greetings!](https://www.acmicpc.net/problem/17548)          | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/2066)  |
 |        [가희와 클럽 오디션 1](https://www.acmicpc.net/problem/30794)         | B4  |   수학, 구현, 문자열, 사칙연산   | [대회 문제](https://www.acmicpc.net/category/detail/4069)  |
 |          [Gömda ord](https://www.acmicpc.net/problem/24196)          | B4  |        구현, 문자열        |     [대회 문제](https://www.acmicpc.net/category/632)      |
+|          [Shipping](https://www.acmicpc.net/problem/26530)           | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/784)      |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
 |           [두 수 비교하기](https://www.acmicpc.net/problem/1330)           | B5  |          구현           |                                                        |
