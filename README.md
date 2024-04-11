@@ -343,51 +343,51 @@
 <details>
 <summary> <b>그 외</b> </summary>
 
-|                                                            문제명(링크)                                                            | 난이도 |    유형    |              비고              |
-|:-----------------------------------------------------------------------------------------------------------------------------:|:---:|:--------:|:----------------------------:|
-|                                                           1이 될 때까지                                                            |  -  |   그리디    |                              |
-|                          [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                           |  -  |    정렬    |                              |
-|                                                            DFS_BFS                                                            |  -  |   그래프    |                              |
-|                           [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                           |  -  |    정렬    |                              |
-|                                                          곱하기 혹은 더하기                                                           |  -  |    정렬    |                              |
-|                           [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)                            |  -  |    정렬    | 2020 KAKAO BLIND RECRUITMENT |
-|                                                              금광                                                               |  -  |    DP    |                              |
-|                            [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                            |  -  |  스택, 큐   |                              |
-|                                                          두 배열의 원소 교체                                                          |  -  |    정렬    |                              |
-|                                                           떡볶이 떡 만들기                                                           |  -  |  이진 탐색   |                              |
-|                                                          만들 수 없는 금액                                                           |  -  |   그리디    |                              |
-|                                                            모험가 길드                                                             |  -  |   그리디    |                              |
-|                                                             못생긴 수                                                             |  -  |    DP    |                              |
-|                         [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)                         |  -  |   그리디    | 2019 KAKAO BLIND RECRUITMENT |
-|                                                            문자열 뒤집기                                                            |  -  |   그리디    |                              |
-|                                                            문자열 압축                                                             |  -  |    구현    |                              |
-|                                                            문자열 재정렬                                                            |  -  |    구현    |                              |
-|                                                             미로 탈출                                                             |  -  | DFS, BFS |                              |
-|                                                            볼링공 고르기                                                            |  -  |   그리디    |                              |
-|                                                             부품 찾기                                                             |  -  |  이진 탐색   |                              |
-|                                                      성적이 낮은 순서로 학생 출력하기                                                       |  -  |    정렬    |                              |
-|                                                              소수                                                               |  -  |  소수 판정   |                              |
-|                            [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                             |  -  |  자료 구조   | 2019 KAKAO BLIND RECRUITMENT |
-|                            [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                             |  -  |    해시    | 2022 KAKAO BLIND RECRUITMENT |
-|                                                             여행 계획                                                             |  -  |   그래프    |                              |
-|                                                           음료수 얼려 먹기                                                           |  -  |   그래프    |                              |
-|                                                             이진 탐색                                                             |  -  |  이진 탐색   |                              |
-|                          [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)                           |  -  |  완전 탐색   | 2020 KAKAO BLIND RECRUITMENT |
-|                                                             정렬 구현                                                             |  -  |    정렬    |                              |
-|                                                     정렬된 배열에서 특정 수의 개수 구하기                                                     |  -  |  이진 탐색   |                              |
-|                            [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                             |  -  |   그리디    |                              |
-|                                                           +1 -1 유형                                                            |  -  | +1 -1 유형 |                              |
-|                                                           투 포인터 유형                                                            |  -  |  투 포인터   |                              |
-|                                                            큰 수의 법칙                                                            |  -  |   그리디    |                              |
-|                          [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                           |  -  |    구현    |         2020 카카오 인턴십         |
-|         [팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20)         |  -  |    구현    |      삼성 2022년 상반기 오후 2번      |
-|                                                             편집거리                                                              |  -  |    DP    |                              |
-| [포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/submissions?page=1&pageSize=20) |  -  |    구현    |      삼성 2023년 상반기 오후 1번      |
-|                            [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                             |  -  |  스택, 큐   |                              |
-|                                                           행렬 회전시키기                                                            |  -  |    구현    |                              |
-|                           [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                           |  -  |    구현    |                              |
-|                                                             회성 탐사                                                             |  -  |  최단 경로   |                              |
-
+|                                                            문제명(링크)                                                            | 난이도 |    유형     |              비고              |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:---:|:---------:|:----------------------------:|
+|                                                           1이 될 때까지                                                            |  -  |    그리디    |                              |
+|                          [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                           |  -  |    정렬     |                              |
+|                                                            DFS_BFS                                                            |  -  |    그래프    |                              |
+|                           [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                           |  -  |    정렬     |                              |
+|                                                          곱하기 혹은 더하기                                                           |  -  |    정렬     |                              |
+|                           [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)                            |  -  |    정렬     | 2020 KAKAO BLIND RECRUITMENT |
+|                                                              금광                                                               |  -  |    DP     |                              |
+|                            [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                            |  -  |   스택, 큐   |                              |
+|                                                          두 배열의 원소 교체                                                          |  -  |    정렬     |                              |
+|                                                           떡볶이 떡 만들기                                                           |  -  |   이진 탐색   |                              |
+|                                                          만들 수 없는 금액                                                           |  -  |    그리디    |                              |
+|                                                            모험가 길드                                                             |  -  |    그리디    |                              |
+|                                                             못생긴 수                                                             |  -  |    DP     |                              |
+|                         [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)                         |  -  |    그리디    | 2019 KAKAO BLIND RECRUITMENT |
+|                                                            문자열 뒤집기                                                            |  -  |    그리디    |                              |
+|                                                            문자열 압축                                                             |  -  |    구현     |                              |
+|                                                            문자열 재정렬                                                            |  -  |    구현     |                              |
+|                                                             미로 탈출                                                             |  -  | DFS, BFS  |                              |
+|                                                            볼링공 고르기                                                            |  -  |    그리디    |                              |
+|                                                             부품 찾기                                                             |  -  |   이진 탐색   |                              |
+|                                                      성적이 낮은 순서로 학생 출력하기                                                       |  -  |    정렬     |                              |
+|                                                              소수                                                               |  -  |   소수 판정   |                              |
+|                            [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                             |  -  |   자료 구조   | 2019 KAKAO BLIND RECRUITMENT |
+|                            [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                             |  -  |    해시     | 2022 KAKAO BLIND RECRUITMENT |
+|                                                             여행 계획                                                             |  -  |    그래프    |                              |
+|                                                           음료수 얼려 먹기                                                           |  -  |    그래프    |                              |
+|                                                             이진 탐색                                                             |  -  |   이진 탐색   |                              |
+|                          [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)                           |  -  |   완전 탐색   | 2020 KAKAO BLIND RECRUITMENT |
+|                                                             정렬 구현                                                             |  -  |    정렬     |                              |
+|                                                     정렬된 배열에서 특정 수의 개수 구하기                                                     |  -  |   이진 탐색   |                              |
+|                            [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                             |  -  |    그리디    |                              |
+|                                                           +1 -1 유형                                                            |  -  | +1 -1 유형  |                              |
+|                                                           투 포인터 유형                                                            |  -  |   투 포인터   |                              |
+|                                                            큰 수의 법칙                                                            |  -  |    그리디    |                              |
+|                          [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                           |  -  |    구현     |         2020 카카오 인턴십         |
+|         [팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20)         |  -  |    구현     |      삼성 2022년 상반기 오후 2번      |
+|                                                             편집거리                                                              |  -  |    DP     |                              |
+| [포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/submissions?page=1&pageSize=20) |  -  |    구현     |      삼성 2023년 상반기 오후 1번      |
+|                            [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                             |  -  |   스택, 큐   |                              |
+|                                                           행렬 회전시키기                                                            |  -  |    구현     |                              |
+|                           [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                           |  -  |    구현     |                              |
+|                                                             회성 탐사                                                             |  -  |   최단 경로   |                              |
+|                [루돌프의 반란](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion)                 |  -  | 구현, 시뮬레이션 |        삼성 기출문제(2023년)        |
 </details>
 
 ## Algorithm 스터디 공부 내역
