@@ -104,6 +104,7 @@
 |       [Triangle Height](https://www.acmicpc.net/problem/26592)       | B4  |       수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/787)      |
 |          [RICE SACK](https://www.acmicpc.net/problem/9699)           | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/1193)  |
 |       [Buying in Bulk](https://www.acmicpc.net/problem/26332)        | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3266)  |
+|      [Сравнение комнат](https://www.acmicpc.net/problem/27267)       | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3459)  |
 |       [Lots of Liquid](https://www.acmicpc.net/problem/25991)        | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3221)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
