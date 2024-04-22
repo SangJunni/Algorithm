@@ -108,6 +108,7 @@
 |    [Corona Virus Testing](https://www.acmicpc.net/problem/25828)     | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3205)  |
 |            [Area](https://www.acmicpc.net/problem/28490)             | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3640)  |
 |          [Skarpetki](https://www.acmicpc.net/problem/26742)          | B4  |   수학, 구현, 문자열, 사칙연산   |     [대회 문제](https://www.acmicpc.net/category/717)      |
+|        [Большой удой](https://www.acmicpc.net/problem/26057)         | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3226)  |
 |       [Lots of Liquid](https://www.acmicpc.net/problem/25991)        | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3221)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
