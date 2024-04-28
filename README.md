@@ -109,6 +109,12 @@
 |            [Area](https://www.acmicpc.net/problem/28490)             | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3640)  |
 |          [Skarpetki](https://www.acmicpc.net/problem/26742)          | B4  |   수학, 구현, 문자열, 사칙연산   |     [대회 문제](https://www.acmicpc.net/category/717)      |
 |        [Большой удой](https://www.acmicpc.net/problem/26057)         | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3226)  |
+|            [Acres](https://www.acmicpc.net/problem/26532)            | B4  |       수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/784)      |
+|         [Majestic 10](https://www.acmicpc.net/problem/25893)         | B4  |     수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3213)  |
+|       [Find the Twins](https://www.acmicpc.net/problem/25932)        | B4  |          구현           | [대회 문제](https://www.acmicpc.net/category/detail/3216)  |
+|            [Pizza](https://www.acmicpc.net/problem/26566)            | B4  |     수학, 기하학, 사칙연산     |     [대회 문제](https://www.acmicpc.net/category/786)      |
+|           [Hurra!](https://www.acmicpc.net/problem/26767)            | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/719)      |
+|     [末尾の文字 (Last Letter)](https://www.acmicpc.net/problem/27541)     | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3500)  |
 |       [Lots of Liquid](https://www.acmicpc.net/problem/25991)        | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3221)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
