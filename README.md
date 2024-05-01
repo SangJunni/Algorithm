@@ -116,6 +116,7 @@
 |           [Hurra!](https://www.acmicpc.net/problem/26767)            | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/719)      |
 |     [末尾の文字 (Last Letter)](https://www.acmicpc.net/problem/27541)     | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/3500)  |
 |           [글로벌 포닉스](https://www.acmicpc.net/problem/31775)           | B4  |        구현, 문자열        |     [대회 문제](https://www.acmicpc.net/category/1031)     |
+|        [Electric Bill](https://www.acmicpc.net/problem/25881)        | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3212)  |
 |       [Lots of Liquid](https://www.acmicpc.net/problem/25991)        | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3221)  |
 |           [A+B -7](https://www.acmicpc.net/problem/11021)            | B5  |     수학, 구현, 사칙연산      |                                                        |
 |             [AxB](https://www.acmicpc.net/problem/10998)             | B5  |     수학, 구현, 사칙연산      |                                                        |
