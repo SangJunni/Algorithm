@@ -125,6 +125,7 @@
 |            [Миша и негатив](https://www.acmicpc.net/problem/21665)             | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/2525)  |
 |               [학번을 찾아줘!](https://www.acmicpc.net/problem/29807)                | B4  |     수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/939)      |
 |            [Lots of Liquid](https://www.acmicpc.net/problem/25991)             | B4  |       수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3221)  |
+|               [엘리스 트랙 매칭](https://www.acmicpc.net/problem/31428)               | B4  |        구현, 문자열        | [대회 문제](https://www.acmicpc.net/category/detail/4149)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |     수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |     수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |          구현           |                                                        |
