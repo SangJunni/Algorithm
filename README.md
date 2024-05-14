@@ -128,6 +128,7 @@
 |               [엘리스 트랙 매칭](https://www.acmicpc.net/problem/31428)               | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/4149)  |
 |                [준영이의 등급](https://www.acmicpc.net/problem/30008)                | B4  | 수학, 구현, 사칙연산, 많은 조건 분기 |     [대회 문제](https://www.acmicpc.net/category/963)      |
 |             [유치원생 파댕이 돌보기](https://www.acmicpc.net/problem/30979)              | B4  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/4075)  |
+|            [Случай с игрой](https://www.acmicpc.net/problem/29267)             | B4  |  수학, 구현, 사칙연산, 시뮬레이션   | [대회 문제](https://www.acmicpc.net/category/detail/3773)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
