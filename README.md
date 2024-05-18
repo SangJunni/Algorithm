@@ -131,6 +131,7 @@
 |            [Случай с игрой](https://www.acmicpc.net/problem/29267)             | B4  |  수학, 구현, 사칙연산, 시뮬레이션   | [대회 문제](https://www.acmicpc.net/category/detail/3773)  |
 |                  [재수강](https://www.acmicpc.net/problem/31822)                  | B4  |        구현, 문자열         |     [대회 문제](https://www.acmicpc.net/category/1034)     |
 |              [Rulltrappa](https://www.acmicpc.net/problem/20867)               | B4  |        수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/516)      |
+|              [The Merchant of Venice](https://www.acmicpc.net/problem/13496)               | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/detail/1539)      |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
