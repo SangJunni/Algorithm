@@ -133,6 +133,9 @@
 |              [Rulltrappa](https://www.acmicpc.net/problem/20867)               | B4  |        수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/516)      |
 |        [The Merchant of Venice](https://www.acmicpc.net/problem/13496)         | B4  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1539)  |
 |                [ГРАДИНА](https://www.acmicpc.net/problem/24294)                | B4  |        수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/642)      |
+|              [Simple Sum](https://www.acmicpc.net/problem/26531)               | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/784)      |
+|                [학식 사주기](https://www.acmicpc.net/problem/31821)                 | B4  |           구현           |     [대회 문제](https://www.acmicpc.net/category/1034)     |
+|             [Алекс и стейк](https://www.acmicpc.net/problem/29283)             | B4  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3777)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
