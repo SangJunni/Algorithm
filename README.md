@@ -137,6 +137,7 @@
 |                [학식 사주기](https://www.acmicpc.net/problem/31821)                 | B4  |           구현           |     [대회 문제](https://www.acmicpc.net/category/1034)     |
 |             [Алекс и стейк](https://www.acmicpc.net/problem/29283)             | B4  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3777)  |
 |                 [홀짝홀짝](https://www.acmicpc.net/problem/31867)                  | B4  |      수학, 구현, 문자열       |     [대회 문제](https://www.acmicpc.net/category/1036)     |
+|              [Final Price](https://www.acmicpc.net/problem/28224)              | B4  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3607)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
