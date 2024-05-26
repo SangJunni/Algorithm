@@ -166,6 +166,7 @@
 |              [分 (Minutes)](https://www.acmicpc.net/problem/31614)              | B5  |        수학, 사칙연산        |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |       [ハミング距離 (Hamming Distance)](https://www.acmicpc.net/problem/31608)       | B5  |        구현, 문자열         |  대회 문제](https://www.acmicpc.net/category/detail/4174)  |
 |            [Adding Trouble](https://www.acmicpc.net/problem/31654)             | B5  |        구현, 문자열         |  대회 문제](https://www.acmicpc.net/category/detail/4183)  |
+|            [이 대회는 이제 제 겁니다](https://www.acmicpc.net/problem/31922)             | B5  |        수학, 사칙연산        |     대회 문제](https://www.acmicpc.net/category/1037)      |
 
 </details>
 
