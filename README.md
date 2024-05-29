@@ -142,6 +142,7 @@
 |             [Quadrilateral](https://www.acmicpc.net/problem/10188)             | B4  |           구현           |  [대회 문제](https://www.acmicpc.net/category/detail/782)  |
 |                [Betting](https://www.acmicpc.net/problem/24751)                | B4  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3061)  |
 |         [Basketball One-on-One](https://www.acmicpc.net/problem/18198)         | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/2136)  |
+|         [체스 초보 브실이](https://www.acmicpc.net/problem/29725)         | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
