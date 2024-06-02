@@ -1,6 +1,6 @@
-x,y,z = map(int,input().split())
-a,b,c = map(int,input().split())
-if a>= x and b >= y and c >= z:
+x, y, z = map(int,input().split())
+a, b, c = map(int,input().split())
+if a >= x and b >= y and c >= z:
     print('A')
 elif a >= x/2 and b >= y and c >= z:
     print('B')
