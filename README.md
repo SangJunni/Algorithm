@@ -152,6 +152,7 @@
 |        [Communication Channels](https://www.acmicpc.net/problem/11121)         | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/1376)  |
 |               [특별한 작은 분수](https://www.acmicpc.net/problem/27890)               | B4  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/3562)  |
 |           [Counting Clauses](https://www.acmicpc.net/problem/17903)            | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/2103)  |
+|                 [지폐 세기](https://www.acmicpc.net/problem/30031)                 | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/943)      |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
