@@ -47,6 +47,7 @@
 |                [최장 스트릭](https://www.acmicpc.net/problem/29752)                 | B3  |           구현           |     [대회 문제](https://www.acmicpc.net/category/209)      |
 |                 [택시 기하학](https://www.acmicpc.net/problem/3053)                 | B3  |        수학, 기하학         |  [대회 문제](https://www.acmicpc.net/category/detail/108)  |
 |              [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)              | B3  |        구현, 문자열         |                                                        |
+|              [Relocation](https://www.acmicpc.net/problem/31052)               | B3  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/4082)  | 
 |                [DKSH 찾기](https://www.acmicpc.net/problem/29766)                | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
 |               [Archivist](https://www.acmicpc.net/problem/28454)               | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
 |           [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)           | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
