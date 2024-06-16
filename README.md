@@ -49,7 +49,8 @@
 |              [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)              | B3  |        구현, 문자열         |                                                        |
 |              [Relocation](https://www.acmicpc.net/problem/31052)               | B3  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/4082)  |
 |            [Шкаф для обуви](https://www.acmicpc.net/problem/28939)             | B3  |        수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/888)      |
-|         [Разрезание заготовки](https://www.acmicpc.net/problem/29648)          | B3  |  수학, 완전 탐색, 기하학, 사칙연산  | [대회 문제](https://www.acmicpc.net/category/detail/3847)  | 
+|         [Разрезание заготовки](https://www.acmicpc.net/problem/29648)          | B3  |  수학, 완전 탐색, 기하학, 사칙연산  | [대회 문제](https://www.acmicpc.net/category/detail/3847)  |
+|       [Fatigue-Fighting Vacation](https://www.acmicpc.net/problem/29991)       | B3  |       구현, 시뮬레이션        | [대회 문제](https://www.acmicpc.net/category/detail/3902)  | 
 |                [DKSH 찾기](https://www.acmicpc.net/problem/29766)                | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
 |               [Archivist](https://www.acmicpc.net/problem/28454)               | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
 |           [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)           | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
