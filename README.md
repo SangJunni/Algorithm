@@ -50,7 +50,8 @@
 |              [Relocation](https://www.acmicpc.net/problem/31052)               | B3  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/4082)  |
 |            [Шкаф для обуви](https://www.acmicpc.net/problem/28939)             | B3  |        수학, 사칙연산        |     [대회 문제](https://www.acmicpc.net/category/888)      |
 |         [Разрезание заготовки](https://www.acmicpc.net/problem/29648)          | B3  |  수학, 완전 탐색, 기하학, 사칙연산  | [대회 문제](https://www.acmicpc.net/category/detail/3847)  |
-|       [Fatigue-Fighting Vacation](https://www.acmicpc.net/problem/29991)       | B3  |       구현, 시뮬레이션        | [대회 문제](https://www.acmicpc.net/category/detail/3902)  | 
+|       [Fatigue-Fighting Vacation](https://www.acmicpc.net/problem/29991)       | B3  |       구현, 시뮬레이션        | [대회 문제](https://www.acmicpc.net/category/detail/3902)  |
+|              [Wybór zadań](https://www.acmicpc.net/problem/26676)              | B3  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3310)  |
 |                [DKSH 찾기](https://www.acmicpc.net/problem/29766)                | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
 |               [Archivist](https://www.acmicpc.net/problem/28454)               | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
 |           [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)           | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
@@ -161,6 +162,7 @@
 |            [2023은 무엇이 특별할까?](https://www.acmicpc.net/problem/31090)            | B4  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4089)  |
 |           [안밖? 밖안? 계단? 역계단?](https://www.acmicpc.net/problem/28290)            | B4  |      구현, 많은 조건 분기      | [대회 문제](https://www.acmicpc.net/category/detail/3614)  |
 |                 [A+B-C](https://www.acmicpc.net/problem/31403)                 | B4  |     수학, 문자열, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1016)     |
+|                  [등교](https://www.acmicpc.net/problem/31962)                   | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1038)     |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
