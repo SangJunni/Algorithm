@@ -163,6 +163,7 @@
 |           [안밖? 밖안? 계단? 역계단?](https://www.acmicpc.net/problem/28290)            | B4  |      구현, 많은 조건 분기      | [대회 문제](https://www.acmicpc.net/category/detail/3614)  |
 |                 [A+B-C](https://www.acmicpc.net/problem/31403)                 | B4  |     수학, 문자열, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1016)     |
 |                  [등교](https://www.acmicpc.net/problem/31962)                   | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1038)     |
+|                 [강당 대관](https://www.acmicpc.net/problem/31994)                 | B4  |           구현           |     [대회 문제](https://www.acmicpc.net/category/1041)     |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
