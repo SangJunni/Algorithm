@@ -52,6 +52,7 @@
 |         [Разрезание заготовки](https://www.acmicpc.net/problem/29648)          | B3  |  수학, 완전 탐색, 기하학, 사칙연산  | [대회 문제](https://www.acmicpc.net/category/detail/3847)  |
 |       [Fatigue-Fighting Vacation](https://www.acmicpc.net/problem/29991)       | B3  |       구현, 시뮬레이션        | [대회 문제](https://www.acmicpc.net/category/detail/3902)  |
 |              [Wybór zadań](https://www.acmicpc.net/problem/26676)              | B3  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3310)  |
+|            [Пилтовер и Заун](https://www.acmicpc.net/problem/28598)            | B3  |   수학, 사칙연산, 많은 조건 분기   |     [대회 문제](https://www.acmicpc.net/category/873)      |
 |                [DKSH 찾기](https://www.acmicpc.net/problem/29766)                | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
 |               [Archivist](https://www.acmicpc.net/problem/28454)               | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
 |           [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)           | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
