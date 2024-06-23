@@ -55,6 +55,7 @@
 |            [Пилтовер и Заун](https://www.acmicpc.net/problem/28598)            | B3  |   수학, 사칙연산, 많은 조건 분기   |     [대회 문제](https://www.acmicpc.net/category/873)      |
 |                [Домино](https://www.acmicpc.net/problem/28640)                 | B3  |        구현, 문자열         |     [대회 문제](https://www.acmicpc.net/category/874)      |
 |           [Стандарты времени](https://www.acmicpc.net/problem/29657)           | B3  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3849)  |
+|                [주사위 게임](https://www.acmicpc.net/problem/10103)                 | B3  |  수학, 구현, 사칙연산, 시뮬레이션   | [대회 문제](https://www.acmicpc.net/category/detail/1261)  |
 |                [DKSH 찾기](https://www.acmicpc.net/problem/29766)                | B4  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/3869)  |
 |               [Archivist](https://www.acmicpc.net/problem/28454)               | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/2348)  |
 |           [Goodbye, Code Jam](https://www.acmicpc.net/problem/29738)           | B4  |           구현           | [대회 문제](https://www.acmicpc.net/category/detail/3876)  |
