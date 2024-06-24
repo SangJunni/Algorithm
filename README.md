@@ -394,6 +394,7 @@
 |             [토마토](https://www.acmicpc.net/problem/7576)              | G5  |            그래프, BFS            |     [대회 문제](https://www.acmicpc.net/category/214)     |
 |           [평범한 배낭](https://www.acmicpc.net/problem/12865)            | G5  |           DP, 배낭 문제            |                                                       |
 |         [회문은 회문아니야!!](https://www.acmicpc.net/problem/15927)         | G5  |            문자열, 애드혹            | [대회 문제](https://www.acmicpc.net/category/detail/1892) |
+|            [멋진 쌍](https://www.acmicpc.net/problem/12924)             | G5  |           수학, 완전 탐색            |                                                       |
 
 </details>
 
