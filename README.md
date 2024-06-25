@@ -373,6 +373,7 @@
 |           [파일 합치기3](https://www.acmicpc.net/problem/13975)           | G4  |       자료 구조, 그리디, 우선순위 큐       |                                                       |
 |            [플로이드](https://www.acmicpc.net/problem/11404)             | G4  |      그래프, 최단 경로, 플로이드-워셜       |                                                       |
 |           [휴게소 세우기](https://www.acmicpc.net/problem/1477)            | G4  |        이분 탐색, 매개 변수 탐색         |                                                       |
+|            [수도배관공사](https://www.acmicpc.net/problem/2073)            | G4  |           DP, 배낭 문제            |                                                       |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |          구현, 그리디, 문자열          |                                                       |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학               |                                                       |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |               수학               |                                                       |
