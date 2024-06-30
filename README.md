@@ -239,6 +239,8 @@
 |                 [최소 힙](https://www.acmicpc.net/problem/1927)                 | S2  |     자료 구조, 우선순위 큐      |                                                       |
 |              [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)              | S2  |   그래프, 트리, BFS, DFS    |                                                       |
 |            [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)             | S2  | 그래프, BFS, 다익스트라, 최단 경로 |                                                       |
+|             [RPG 마스터 오명진](https://www.acmicpc.net/problem/22941)             | S2  |           수학           | [대회 문제](https://www.acmicpc.net/category/detail/2746) |
+|               [서로소 싫어](https://www.acmicpc.net/problem/30620)                | S4  |     수학, 애득 혹, 정수론      | [대회 문제](https://www.acmicpc.net/category/996) |
 |                [1로 만들기](https://www.acmicpc.net/problem/1463)                | S3  |           DP           |                                                       |
 |               [2xn 타일링](https://www.acmicpc.net/problem/11726)               | S3  |           DP           |                                                       |
 |              [2xn 타일링2](https://www.acmicpc.net/problem/11727)               | S3  |           DP           |                                                       |
@@ -285,7 +287,6 @@
 |                 [카드 2](https://www.acmicpc.net/problem/2164)                 | S4  |        자료 구조, 큐        |                                                       |
 |                  [큐](https://www.acmicpc.net/problem/10845)                  | S4  |        자료 구조, 큐        |                                                       |
 |                [다음 소수](https://www.acmicpc.net/problem/4134)                 | S4  | 수학, 완전 탐색, 정수론, 소수 판정  | [대회 문제](https://www.acmicpc.net/category/detail/471)  |
-|             [RPG 마스터 오명진](https://www.acmicpc.net/problem/22941)             | S4  |           수학           | [대회 문제](https://www.acmicpc.net/category/detail/2746) |
 |              [2차원 배열의 합](https://www.acmicpc.net/problem/2167)               | S5  |        구현, 누적합         |                                                       |
 |                [BABBA](https://www.acmicpc.net/problem/9625)                 | S5  |           DP           |                                                       |
 |                [D-Day](https://www.acmicpc.net/problem/1308)                 | S5  |           구현           |                                                       |
