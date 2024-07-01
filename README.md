@@ -222,6 +222,7 @@
 |              [카드 합체 놀이](https://www.acmicpc.net/problem/15903)               | S1  |   자료 구조, 그리디, 우선순위 큐   | [대회 문제](https://www.acmicpc.net/category/detail/1891) |
 |                [포도주 시식](https://www.acmicpc.net/problem/2156)                | S1  |           DP           |                                                       |
 |                [회의실 배정](https://www.acmicpc.net/problem/1931)                | S1  |        그리디, 정렬         |                                                       |
+|             [플래피 버드 스코어링](https://www.acmicpc.net/problem/26152)             | S1  |         이분 탐색          |     [대회 문제](https://www.acmicpc.net/category/681)     |
 |                [나무 자르기](https://www.acmicpc.net/problem/2805)                | S2  |    이분 탐색, 매개 변수 탐색     |  [대회 문제](https://www.acmicpc.net/category/detail/72)  |
 |               [DFS와 BFS](https://www.acmicpc.net/problem/1260)               | S2  |          그래프           |                                                       |
 |                [랜선 자르기](https://www.acmicpc.net/problem/1654)                | S2  |     이분탐색, 매개변수 탐색      |                                                       |
@@ -240,7 +241,7 @@
 |              [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)              | S2  |   그래프, 트리, BFS, DFS    |                                                       |
 |            [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)             | S2  | 그래프, BFS, 다익스트라, 최단 경로 |                                                       |
 |             [RPG 마스터 오명진](https://www.acmicpc.net/problem/22941)             | S2  |           수학           | [대회 문제](https://www.acmicpc.net/category/detail/2746) |
-|               [서로소 싫어](https://www.acmicpc.net/problem/30620)                | S4  |     수학, 애득 혹, 정수론      | [대회 문제](https://www.acmicpc.net/category/996) |
+|               [서로소 싫어](https://www.acmicpc.net/problem/30620)                | S4  |     수학, 애득 혹, 정수론      |     [대회 문제](https://www.acmicpc.net/category/996)     |
 |                [1로 만들기](https://www.acmicpc.net/problem/1463)                | S3  |           DP           |                                                       |
 |               [2xn 타일링](https://www.acmicpc.net/problem/11726)               | S3  |           DP           |                                                       |
 |              [2xn 타일링2](https://www.acmicpc.net/problem/11727)               | S3  |           DP           |                                                       |
