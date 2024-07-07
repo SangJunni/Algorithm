@@ -171,6 +171,7 @@
 |                 [A+B-C](https://www.acmicpc.net/problem/31403)                 | B4  |     수학, 문자열, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1016)     |
 |                  [등교](https://www.acmicpc.net/problem/31962)                   | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1038)     |
 |                 [강당 대관](https://www.acmicpc.net/problem/31994)                 | B4  |           구현           |     [대회 문제](https://www.acmicpc.net/category/1041)     |
+|                  [주사위](https://www.acmicpc.net/problem/9295)                   | B4  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1152)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
@@ -244,6 +245,7 @@
 |             [RPG 마스터 오명진](https://www.acmicpc.net/problem/22941)             | S2  |             수학              | [대회 문제](https://www.acmicpc.net/category/detail/2746) |
 |               [서로소 싫어](https://www.acmicpc.net/problem/30620)                | S2  |        수학, 애득 혹, 정수론        |     [대회 문제](https://www.acmicpc.net/category/996)     |
 |                 [세 번쨰](https://www.acmicpc.net/problem/5619)                 | S2  | 수학, 그리디, 완전 탐색, 정렬, 비둘기집 원리 | [대회 문제](https://www.acmicpc.net/category/detail/559)  |
+|               [튕기는 볼링공](https://www.acmicpc.net/problem/1876)                | S2  |         수학, 구현, 기하학         | [대회 문제](https://www.acmicpc.net/category/detail/1126) |
 |                [1로 만들기](https://www.acmicpc.net/problem/1463)                | S3  |             DP              |                                                       |
 |               [2xn 타일링](https://www.acmicpc.net/problem/11726)               | S3  |             DP              |                                                       |
 |              [2xn 타일링2](https://www.acmicpc.net/problem/11727)               | S3  |             DP              |                                                       |
