@@ -386,6 +386,8 @@
 |            [플로이드](https://www.acmicpc.net/problem/11404)             | G4  |      그래프, 최단 경로, 플로이드-워셜       |                                                       |
 |           [휴게소 세우기](https://www.acmicpc.net/problem/1477)            | G4  |        이분 탐색, 매개 변수 탐색         |                                                       |
 |            [수도배관공사](https://www.acmicpc.net/problem/2073)            | G4  |           DP, 배낭 문제            |                                                       |
+|      [약속장소 정하기 (Small)](https://www.acmicpc.net/problem/12441)       | G4  |       그래프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/1676) |
+|      [약속장소 정하기 (Large)](https://www.acmicpc.net/problem/12442)       | G4  |       그래프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/1676) |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |          구현, 그리디, 문자열          |                                                       |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학               |                                                       |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |               수학               |                                                       |
