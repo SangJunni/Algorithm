@@ -361,6 +361,7 @@
 |           [소수의 연속합](https://www.acmicpc.net/problem/1644)            | G3  |     수학, 정수론, 투 포인터, 소수 판정      | [대회 문제](https://www.acmicpc.net/category/detail/198)  |
 |            [아기 상어](https://www.acmicpc.net/problem/16236)            | G3  |      구현, 그래프, 시뮬레이션, BFS       |                                                       |
 |       [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)        | G3  |             완전 탐색              | [대회 문제](https://www.acmicpc.net/category/detail/1749) |
+|          [소수 4개의 합](https://www.acmicpc.net/problem/14905)           | G3  |   수학, 정수론, 소수 판정, 에라토스테네스의 체   |     [대회 문제](https://www.acmicpc.net/category/788)     |
 |            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |               DP               |                                                       |
 |           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |          완전 탐색, 백트래킹           |                                                       |
 |     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |       그레프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
