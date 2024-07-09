@@ -35,6 +35,7 @@
 |                 [시험 감독](https://www.acmicpc.net/problem/13458)                 | B2  |        수학, 사칙연산        |                                                        |
 |                [알파벳 찾기](https://www.acmicpc.net/problem/10809)                 | B2  |        구현, 문자열         |                                                        |
 |               [점심시간 레이스](https://www.acmicpc.net/problem/28236)                | B2  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
+|                 [Взлет](https://www.acmicpc.net/problem/29538)                 | B2  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3825)  |
 |                [ACM 호텔](https://www.acmicpc.net/problem/10250)                 | B3  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1283)  |
 |              [Since 1973](https://www.acmicpc.net/problem/28135)               | B3  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/848)      |
 |                  [최댓값](https://www.acmicpc.net/problem/2562)                   | B3  |           구현           |      [대회 문제](https://www.acmicpc.net/category/68)      |
