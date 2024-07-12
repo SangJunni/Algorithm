@@ -248,6 +248,7 @@
 |               [서로소 싫어](https://www.acmicpc.net/problem/30620)                | S2  |        수학, 애득 혹, 정수론        |     [대회 문제](https://www.acmicpc.net/category/996)     |
 |                 [세 번쨰](https://www.acmicpc.net/problem/5619)                 | S2  | 수학, 그리디, 완전 탐색, 정렬, 비둘기집 원리 | [대회 문제](https://www.acmicpc.net/category/detail/559)  |
 |               [튕기는 볼링공](https://www.acmicpc.net/problem/1876)                | S2  |         수학, 구현, 기하학         | [대회 문제](https://www.acmicpc.net/category/detail/1126) |
+|             [Great Pow!](https://www.acmicpc.net/problem/10895)              | S2  |           수학, 정수론           | [대회 문제](https://www.acmicpc.net/category/detail/1359) |
 |                [1로 만들기](https://www.acmicpc.net/problem/1463)                | S3  |             DP              |                                                       |
 |               [2xn 타일링](https://www.acmicpc.net/problem/11726)               | S3  |             DP              |                                                       |
 |              [2xn 타일링2](https://www.acmicpc.net/problem/11727)               | S3  |             DP              |                                                       |
