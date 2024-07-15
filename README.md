@@ -419,6 +419,7 @@
 |            [멋진 쌍](https://www.acmicpc.net/problem/12924)             | G5  |           수학, 완전 탐색            |                                                       |
 |           [화살을 쏘자!](https://www.acmicpc.net/problem/20157)           | G5  |       수학, 자료 구조, 기하학, 해시       | [대회 문제](https://www.acmicpc.net/category/detail/2337) |
 |              [수](https://www.acmicpc.net/problem/22943)              | G5  |     수학, 완전 탐색, 정수론, 소수 판정      |                                                       |
+|            [배수 공사](https://www.acmicpc.net/problem/15817)            | G5  |           DP, 배낭 문제            | [대회 문제](https://www.acmicpc.net/category/detail/1878) |
 
 </details>
 
