@@ -17,7 +17,8 @@
 |          [Odd Man Out (Small)](https://www.acmicpc.net/problem/12595)          | B1  |  자료 구조, 해시를 사용한 집합과 맵  | [대회 문제](https://www.acmicpc.net/category/detail/1698)  |
 |              [Stump Speech](https://www.acmicpc.net/problem/5195)              | B1  |        구현, 문자열         |  [대회 문제](https://www.acmicpc.net/category/detail/442)  |
 |                   [뚊](https://www.acmicpc.net/problem/11383)                   | B1  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/1406)  |
-|              [한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)              | B1  |          그리디           | [대회 문제](https://www.acmicpc.net/problem/14659)  |
+|              [한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)              | B1  |          그리디           |     [대회 문제](https://www.acmicpc.net/problem/14659)     |
+|            [Favorite Number](https://www.acmicpc.net/problem/10570)            | B1  |           구현           |     [대회 문제](https://www.acmicpc.net/category/808)      |
 |                [Hashing](https://www.acmicpc.net/problem/15829)                | B2  |      구현, 문자열, 해싱       |     [대회 문제](https://www.acmicpc.net/category/701)      |
 |                 [OX 퀴즈](https://www.acmicpc.net/problem/8958)                  | B2  |        구현, 문자열         | [대회 문제](https://www.acmicpc.net/category/detail/1067)  |
 |           [Union Maplestory](https://www.acmicpc.net/problem/28455)            | B2  |         구현, 정렬         | [대회 문제](https://www.acmicpc.net/category/detail/3675)  |
