@@ -427,6 +427,7 @@
 |              [수](https://www.acmicpc.net/problem/22943)              | G5  |     수학, 완전 탐색, 정수론, 소수 판정      |                                                       |
 |            [배수 공사](https://www.acmicpc.net/problem/15817)            | G5  |           DP, 배낭 문제            | [대회 문제](https://www.acmicpc.net/category/detail/1878) |
 |          [배열 돌리기 2](https://www.acmicpc.net/problem/16927)           | G5  |               구현               |                                                       |
+|           [수식 완성하기](https://www.acmicpc.net/problem/10421)           | G5  |          완전 탐색, 백트래킹           |     [대회 문제](https://www.acmicpc.net/category/688)     |
 
 </details>
 
