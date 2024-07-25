@@ -304,6 +304,7 @@
 |                  [큐](https://www.acmicpc.net/problem/10845)                  | S4  |          자료 구조, 큐           |                                                       |
 |                [다음 소수](https://www.acmicpc.net/problem/4134)                 | S4  |    수학, 완전 탐색, 정수론, 소수 판정    | [대회 문제](https://www.acmicpc.net/category/detail/471)  |
 |                [순열 정렬](https://www.acmicpc.net/problem/25287)                | S4  |             그리디             | [대회 문제](https://www.acmicpc.net/category/detail/3134) |
+|                [보디빌딩](https://www.acmicpc.net/problem/27952)                 | S4  |          그리디, 애드 혹          | [대회 문제](https://www.acmicpc.net/category/detail/3566) |
 |              [2차원 배열의 합](https://www.acmicpc.net/problem/2167)               | S5  |           구현, 누적합           |                                                       |
 |                [BABBA](https://www.acmicpc.net/problem/9625)                 | S5  |             DP              |                                                       |
 |                [D-Day](https://www.acmicpc.net/problem/1308)                 | S5  |             구현              |                                                       |
