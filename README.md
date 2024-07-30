@@ -380,6 +380,7 @@
 |       [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)        | G3  |             완전 탐색              | [대회 문제](https://www.acmicpc.net/category/detail/1749) |
 |          [소수 4개의 합](https://www.acmicpc.net/problem/14905)           | G3  |   수학, 정수론, 소수 판정, 에라토스테네스의 체   |     [대회 문제](https://www.acmicpc.net/category/788)     |
 |       [내 이진트리를 돌려줘!!!](https://www.acmicpc.net/problem/18132)        | G3  |          수학, DP, 조합론           |     [대회 문제](https://www.acmicpc.net/category/805)     |
+|           [파일 탐색기](https://www.acmicpc.net/problem/18132)            | G3  |          구현, 문자열, 정렬           | [대회 문제](https://www.acmicpc.net/category/detail/2345) |
 |            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |               DP               |                                                       |
 |           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |          완전 탐색, 백트래킹           |                                                       |
 |     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |       그레프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
