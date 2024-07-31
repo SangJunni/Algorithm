@@ -438,6 +438,7 @@
 |            [배수 공사](https://www.acmicpc.net/problem/15817)            | G5  |           DP, 배낭 문제            | [대회 문제](https://www.acmicpc.net/category/detail/1878) |
 |          [배열 돌리기 2](https://www.acmicpc.net/problem/16927)           | G5  |               구현               |                                                       |
 |           [수식 완성하기](https://www.acmicpc.net/problem/10421)           | G5  |          완전 탐색, 백트래킹           |     [대회 문제](https://www.acmicpc.net/category/688)     |
+|            [ZOAC](https://www.acmicpc.net/problem/16719)             | G5  |          구현, 문자열, 재귀           | [대회 문제](https://www.acmicpc.net/category/detail/1981) |
 
 </details>
 
