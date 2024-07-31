@@ -39,6 +39,7 @@
 |               [점심시간 레이스](https://www.acmicpc.net/problem/28236)                | B2  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3608)  |
 |                 [Взлет](https://www.acmicpc.net/problem/29538)                 | B2  |        수학, 사칙연산        | [대회 문제](https://www.acmicpc.net/category/detail/3825)  |
 |                 [기념일 1](https://www.acmicpc.net/problem/10420)                 | B2  |  수학, 구현, 사칙연산, 시뮬레이션   |     [대회 문제](https://www.acmicpc.net/category/688)      |
+|                [ZOAC 2](https://www.acmicpc.net/problem/18238)                 | B2  |      구현, 그리디, 문자열      | [대회 문제](https://www.acmicpc.net/category/detail/2141)  |
 |                [ACM 호텔](https://www.acmicpc.net/problem/10250)                 | B3  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1283)  |
 |              [Since 1973](https://www.acmicpc.net/problem/28135)               | B3  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/848)      |
 |                  [최댓값](https://www.acmicpc.net/problem/2562)                   | B3  |           구현           |      [대회 문제](https://www.acmicpc.net/category/68)      |
