@@ -350,6 +350,7 @@
 |                [행렬 곱셈](https://www.acmicpc.net/problem/2740)                 | S5  |        수학, 구현, 선형대수학        |                                                       |
 |                [이장님 초대](https://www.acmicpc.net/problem/9237)                | S5  |           그리디, 정렬           | [대회 문제](https://www.acmicpc.net/category/detail/1146) |
 |               [공포의 면담실](https://www.acmicpc.net/problem/30088)               | S5  |        그리디, 정렬, 누적 합        |     [대회 문제](https://www.acmicpc.net/category/954)     |
+|                [미아 노트](https://www.acmicpc.net/problem/20114)                | S5  |             문자열             | [대회 문제](https://www.acmicpc.net/category/detail/2335) |
 
 </details>
 
