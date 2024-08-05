@@ -416,6 +416,7 @@
 |      [약속장소 정하기 (Large)](https://www.acmicpc.net/problem/12442)       | G4  |       그래프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/1676) |
 |           [회의실 배정](https://www.acmicpc.net/problem/30827)            | G4  |            그리디, 정렬             |    [대회 문제](https://www.acmicpc.net/category/1005)     |
 |           [QUENTO](https://www.acmicpc.net/problem/10429)            | G4  |          구현, 그래프, DFS          |                                                       |
+|           [관악산 등산](https://www.acmicpc.net/problem/14699)            | G4  |            DP, 그래프             |     [대회 문제](https://www.acmicpc.net/category/682)     |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |          구현, 그리디, 문자열          |                                                       |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학               |                                                       |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |               수학               |                                                       |
