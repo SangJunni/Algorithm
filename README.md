@@ -448,7 +448,7 @@
 |           [수식 완성하기](https://www.acmicpc.net/problem/10421)           | G5  |          완전 탐색, 백트래킹           |     [대회 문제](https://www.acmicpc.net/category/688)     |
 |            [ZOAC](https://www.acmicpc.net/problem/16719)             | G5  |          구현, 문자열, 재귀           | [대회 문제](https://www.acmicpc.net/category/detail/1981) |
 |             [동물원](https://www.acmicpc.net/problem/12907)             | G5  |       수학, 조합론, 많은 조건 분기        |                                                       |
-
+|            [구분구적법 (Large)](https://www.acmicpc.net/problem/14609)             | G5  |         수학, 이분탐색, 미적분학         | [대회 문제](https://www.acmicpc.net/category/700) |
 
 </details>
 
