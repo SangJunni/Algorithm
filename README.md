@@ -288,6 +288,7 @@
 |                 [01타일](https://www.acmicpc.net/problem/1904)                 | S3  |             DP              |                                                       |
 |               [교수가 된 현우](https://www.acmicpc.net/problem/3474)               | S3  |           수학, 정수론           |  [대회 문제](https://www.acmicpc.net/category/detail/39)  |
 |           [특별한 케이크 (easy)](https://www.acmicpc.net/problem/31672)            | S3  |          구현, 시뮬레이션          | [대회 문제](https://www.acmicpc.net/category/detail/4188) |
+|               [SNUPTI](https://www.acmicpc.net/problem/25624)                | S3  |             구현              |     [대회 문제](https://www.acmicpc.net/category/687)     |
 |                  [괄호](https://www.acmicpc.net/problem/9012)                  | S4  |       자료 구조, 문자열, 스택        | [대회 문제](https://www.acmicpc.net/category/detail/1081) |
 |              [solved.ac](https://www.acmicpc.net/problem/18110)              | S4  |         수학, 구현, 정렬          |     [대회 문제](https://www.acmicpc.net/category/693)     |
 |                 [30](https://www.acmicpc.net/problem/10610)                  | S4  |      수학, 그리디, 정렬, 문자열       | [대회 문제](https://www.acmicpc.net/category/detail/1322) |
