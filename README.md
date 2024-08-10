@@ -263,6 +263,7 @@
 |               [특별한 기술력](https://www.acmicpc.net/problem/31674)               | S2  |      수학, 그리디, 정렬, 애드 혹      | [대회 문제](https://www.acmicpc.net/category/detail/4188) |
 |               [플립과 시프트](https://www.acmicpc.net/problem/7347)                | S2  |          수학, 애드 혹           | [대회 문제](https://www.acmicpc.net/category/detail/884)  |
 |               [도전 숫자왕](https://www.acmicpc.net/problem/23057)                | S2  |      자료 구조, 완전 탐색. 해시       | [대회 문제](https://www.acmicpc.net/category/detail/2793) |
+|                 [품질검사](https://www.acmicpc.net/problem/5600)                 | S2  |             구현              | [대회 문제](https://www.acmicpc.net/category/detail/555)  |
 |                [1로 만들기](https://www.acmicpc.net/problem/1463)                | S3  |             DP              |                                                       |
 |               [2xn 타일링](https://www.acmicpc.net/problem/11726)               | S3  |             DP              |                                                       |
 |              [2xn 타일링2](https://www.acmicpc.net/problem/11727)               | S3  |             DP              |                                                       |
