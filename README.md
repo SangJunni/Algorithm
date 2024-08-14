@@ -179,6 +179,7 @@
 |                  [등교](https://www.acmicpc.net/problem/31962)                   | B4  |      수학, 구현, 사칙연산      |     [대회 문제](https://www.acmicpc.net/category/1038)     |
 |                 [강당 대관](https://www.acmicpc.net/problem/31994)                 | B4  |           구현           |     [대회 문제](https://www.acmicpc.net/category/1041)     |
 |                  [주사위](https://www.acmicpc.net/problem/9295)                   | B4  |      수학, 구현, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/1152)  |
+|             [체육은 수학과목 입니다](https://www.acmicpc.net/problem/32025)              | B4  |     수학, 기하학, 사칙연산      | [대회 문제](https://www.acmicpc.net/category/detail/4252)  |
 |                [A+B -7](https://www.acmicpc.net/problem/11021)                 | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                  [AxB](https://www.acmicpc.net/problem/10998)                  | B5  |      수학, 구현, 사칙연산      |                                                        |
 |                [두 수 비교하기](https://www.acmicpc.net/problem/1330)                | B5  |           구현           |                                                        |
