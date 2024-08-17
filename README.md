@@ -239,6 +239,7 @@
 |              [2-SAT - 1](https://www.acmicpc.net/problem/11277)              | S1  |            완전 탐색            |                                                       |
 |              [2-SAT - 2](https://www.acmicpc.net/problem/11278)              | S1  |            완전 탐색            |                                                       |
 |                [동전 퍼즐](https://www.acmicpc.net/problem/27921)                | S1  |          완전 탐색, 구현          | [대회 문제](https://www.acmicpc.net/category/detail/3563) |
+|                [소셜네트워크](https://www.acmicpc.net/problem/3098)                | S1  |         구현, 그래프 이론          | [대회 문제](https://www.acmicpc.net/category/detail/252)  |
 |                [나무 자르기](https://www.acmicpc.net/problem/2805)                | S2  |       이분 탐색, 매개 변수 탐색       |  [대회 문제](https://www.acmicpc.net/category/detail/72)  |
 |               [DFS와 BFS](https://www.acmicpc.net/problem/1260)               | S2  |             그래프             |                                                       |
 |                [랜선 자르기](https://www.acmicpc.net/problem/1654)                | S2  |        이분탐색, 매개변수 탐색        |                                                       |
