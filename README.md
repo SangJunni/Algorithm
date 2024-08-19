@@ -429,6 +429,7 @@
 |           [관악산 등산](https://www.acmicpc.net/problem/14699)            | G4  |            DP, 그래프             |     [대회 문제](https://www.acmicpc.net/category/682)     |
 |      [가희의 수열놀이 (Small)](https://www.acmicpc.net/problem/17162)       | G4  |         수학, 자료 구조, 스택          |                                                       |
 |         [인성 문제 있어??](https://www.acmicpc.net/problem/19952)          | G4  |            그래프, BFS            | [대회 문제](https://www.acmicpc.net/category/detail/2328) |
+|          [킥보드로 등교하기](https://www.acmicpc.net/problem/27977)          | G4  |         이분 탐색, 매개변수 탐색         |                                                       |
 |            [A와 B](https://www.acmicpc.net/problem/12904)             | G5  |          구현, 그리디, 문자열          |                                                       |
 |             [CCW](https://www.acmicpc.net/problem/11758)             | G5  |              기하학               |                                                       |
 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | G5  |               수학               |                                                       |
