@@ -397,6 +397,7 @@
 |           [파일 탐색기](https://www.acmicpc.net/problem/18132)            | G3  |          구현, 문자열, 정렬           | [대회 문제](https://www.acmicpc.net/category/detail/2345) |
 |          [나만 안되는 연애](https://www.acmicpc.net/problem/14621)          | G3  |            그래프, MST            | [대회 문제](https://www.acmicpc.net/category/detail/1745) |
 |            [이진 트리](https://www.acmicpc.net/problem/13325)            | G3  |             DP, 트리             | [대회 문제](https://www.acmicpc.net/category/detail/1528) |
+|             [울타리](https://www.acmicpc.net/problem/9347)              | G3  |        최단 경로, 그래프, BFS         | [대회 문제](https://www.acmicpc.net/category/detail/1157) |
 |            [LCS 2](https://www.acmicpc.net/problem/9252)             | G4  |               DP               |                                                       |
 |           [N-Queen](https://www.acmicpc.net/problem/9663)            | G4  |          완전 탐색, 백트래킹           |                                                       |
 |     [Road Reconstruction](https://www.acmicpc.net/problem/20046)     | G4  |       그레프, 다익스트라, 최단 경로        | [대회 문제](https://www.acmicpc.net/category/detail/2330) |
