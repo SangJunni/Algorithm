@@ -1,52 +1,54 @@
 from collections import deque, defaultdict as dd
 import heapq as hq
-import sys
 
-input = lambda: sys.stdin.readline().rstrip()
-
-dire = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-inf = 1e9
+directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+INF = float('inf')
 
 for _ in range(int(input())):
 
-    Y, X = map(int, input().split())
-    arr = [tuple(map(int, input().split())) for _ in range(Y)]
+    height, width = map(int, input().split())
+    grid = [tuple(map(int, input().split())) for _ in range(height)]
+    visit = [[INF] * width for _ in range(height)]
+    is_inside = lambda x, y: 0 <= x < width and 0 <= y < height
+    min_heap = []
 
-    visit = [[inf] * X for _ in range(Y)]
-    inside = lambda x, y: 0 <= x < X and 0 <= y < Y
+    # Initialize the heap with the boundary cells
+    for y in (0, height - 1):
+        for x in range(width):
+            cost = grid[y][x]
+            hq.heappush(min_heap, (cost, x, y))
+            visit[y][x] = cost
 
-    heap = []
-    for y in (0, Y - 1):
-        for x in range(X):
-            crash = arr[y][x]
-            hq.heappush(heap, (crash, x, y))
-            visit[y][x] = crash
-    for x in (0, X - 1):
-        for y in range(Y):
-            crash = arr[y][x]
-            hq.heappush(heap, (crash, x, y))
-            visit[y][x] = crash
+    for x in (0, width - 1):
+        for y in range(height):
+            cost = grid[y][x]
+            hq.heappush(min_heap, (cost, x, y))
+            visit[y][x] = cost
 
-    while heap:
-        t, x, y = hq.heappop(heap)
+    # Process the grid using Dijkstra's algorithm
+    while min_heap:
+        current_cost, x, y = hq.heappop(min_heap)
 
-        if t > visit[y][x]:
+        if current_cost > visit[y][x]:
             continue
 
-        for dx, dy in dire:
-            nt, nx, ny = t + 1, x + dx, y + dy
-            if inside(nx, ny):
-                if arr[ny][nx] and nt < visit[ny][nx]:
-                    visit[ny][nx] = nt
-                    hq.heappush(heap, (nt, nx, ny))
-                elif not arr[ny][nx] and t < visit[ny][nx]:
-                    visit[ny][nx] = t
-                    hq.heappush(heap, (t, nx, ny))
+        for dx, dy in directions:
+            nx, ny = x + dx, y + dy
+            next_cost = current_cost + 1
+
+            if is_inside(nx, ny):
+                if grid[ny][nx] and next_cost < visit[ny][nx]:
+                    visit[ny][nx] = next_cost
+                    hq.heappush(min_heap, (next_cost, nx, ny))
+                elif not grid[ny][nx] and current_cost < visit[ny][nx]:
+                    visit[ny][nx] = current_cost
+                    hq.heappush(min_heap, (current_cost, nx, ny))
 
     dist = dd(int)
-    for y in range(Y):
-        for x in range(X):
-            if not arr[y][x]:
+    for y in range(height):
+        for x in range(width):
+            if not grid[y][x]:
                 dist[visit[y][x]] += 1
-    answer = list(sorted(dist.items()))
+
+    answer = sorted(dist.items())
     print(*answer[-1])
