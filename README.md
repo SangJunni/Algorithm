@@ -268,6 +268,7 @@
 |               [도전 숫자왕](https://www.acmicpc.net/problem/23057)                | S2  |      자료 구조, 완전 탐색. 해시       | [대회 문제](https://www.acmicpc.net/category/detail/2793) |
 |                 [품질검사](https://www.acmicpc.net/problem/5600)                 | S2  |             구현              | [대회 문제](https://www.acmicpc.net/category/detail/555)  |
 |            [컨벤 데드가 하고싶어요](https://www.acmicpc.net/problem/28450)             | S2  |             DP              | [대회 문제](https://www.acmicpc.net/category/detail/3708) |
+|                 [사다리](https://www.acmicpc.net/problem/3061)                  | S2  |           그리디, 정렬           |                                                       |
 |                [1로 만들기](https://www.acmicpc.net/problem/1463)                | S3  |             DP              |                                                       |
 |               [2xn 타일링](https://www.acmicpc.net/problem/11726)               | S3  |             DP              |                                                       |
 |              [2xn 타일링2](https://www.acmicpc.net/problem/11727)               | S3  |             DP              |                                                       |
