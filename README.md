@@ -466,6 +466,7 @@
 |        [구분구적법 (Large)](https://www.acmicpc.net/problem/14609)        | G5  |         수학, 이분탐색, 미적분학         |     [대회 문제](https://www.acmicpc.net/category/700)     |
 |            [작은 벌점](https://www.acmicpc.net/problem/16498)            | G5  |        완전탐색, 정렬, 이분 탐색         |     [대회 문제](https://www.acmicpc.net/category/790)     |
 |            [기타 코드](https://www.acmicpc.net/problem/1366)             | G5  |            완전탐색, 구현            |                                                       |
+|            [하노이 탑](https://www.acmicpc.net/problem/1914)             | G5  |               재귀               |                                                       |
 
 </details>
 
